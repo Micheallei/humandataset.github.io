@@ -1,0 +1,3 @@
+{% for item in site.data.navigation %}
+  <a class="page-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+{% endfor %}
