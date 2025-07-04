@@ -123,23 +123,24 @@ h1.page-title, .page-title, h1 {
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  // 卡片展开/收起
-  document.querySelectorAll('.case-card').forEach(function(card) {
-    card.addEventListener('click', function(e) {
-      card.classList.toggle('expanded');
+  // 多任务筛选
+  [
+    {prefix:'behavior', task:'social qa'},
+    {prefix:'writing', task:'writing imitation'},
+    {prefix:'comment', task:'personalized comments'},
+    {prefix:'item', task:'item selection'}
+  ].forEach(({prefix})=>{
+    ['userid','source'].forEach(f=>{
+      const el = document.getElementById('filter-'+prefix+'-'+f);
+      if(el) el.addEventListener('change', ()=>filterCases(prefix));
     });
   });
-  // 筛选
-  ['userid','source'].forEach(f=>{
-    const el = document.getElementById('filter-behavior-'+f);
-    if(el) el.addEventListener('change', filterCases);
-  });
-  function filterCases() {
+  function filterCases(prefix) {
     let cond = {};
     ['userid','source'].forEach(f=>{
-      cond[f] = document.getElementById('filter-behavior-'+f).value;
+      cond[f] = document.getElementById('filter-'+prefix+'-'+f).value;
     });
-    document.querySelectorAll('.case-card').forEach(function(card) {
+    document.querySelectorAll('.case-card[data-prefix="'+prefix+'"]').forEach(function(card) {
       let ok = true;
       ['userid','source'].forEach(f=>{
         if(cond[f] !== '' && card.dataset[f] !== cond[f]) ok = false;
@@ -147,6 +148,12 @@ document.addEventListener('DOMContentLoaded', function() {
       card.style.display = ok ? '' : 'none';
     });
   }
+  // 卡片展开/收起
+  document.querySelectorAll('.case-card').forEach(function(card) {
+    card.addEventListener('click', function(e) {
+      card.classList.toggle('expanded');
+    });
+  });
 });
 </script>
 
@@ -188,7 +195,124 @@ document.addEventListener('DOMContentLoaded', function() {
             {% for pair in case.task_specific %}
               <div style="margin:0.3em 0;">
                 <b style="color:{{ maincolor }}; font-weight:600;">{{ pair[0] | replace: '_', ' ' | capitalize }}:</b>
-                <span style="{% if pair[0]=='question' %}font-weight:600; color:#111;{% else %}font-size:0.97em; color:#31425c;{% endif %}">{{ pair[1] }}</span>
+                <span style="{% if pair[0]=='question' %}font-weight:600; color:#111;{% else %}font-size:0.97em; color:#31425c;{% endif %}">{{ pair[1] | newline_to_br }}</span>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<!-- Writing Imitation Task -->
+<div class="task-block">
+  <div class="task-panel">
+    <h2 style="color:#339af0;text-align:center;">Task: Writing Imitation</h2>
+    {% assign maincolor = "#339af0" %}
+    <div class="filter-bar">
+      <label for="filter-writing-userid">UserID:</label>
+      <select name="userid" id="filter-writing-userid">
+        <option value="">All</option>
+        {% assign cases = site.data.behavior_cases | where: "task_name", "writing imitation" %}
+        {% assign userids = cases | map: 'userid' | uniq | sort %}
+        {% for id in userids %}<option value="{{ id }}">{{ id }}</option>{% endfor %}
+      </select>
+      <label for="filter-writing-source">Source:</label>
+      <select name="source" id="filter-writing-source">
+        <option value="">All</option>
+        {% assign sources = cases | map: 'source' | uniq | sort %}
+        {% for s in sources %}<option value="{{ s }}">{{ s }}</option>{% endfor %}
+      </select>
+    </div>
+    <div class="case-list-scroll">
+      {% for case in cases %}
+        <div class="case-card" data-prefix="writing" data-userid="{{ case.userid }}" data-source="{{ case.source }}">
+          <div class="case-summary"><div><b>UserID:</b> {{ case.userid }}</div><div><b>Source:</b> {{ case.source }}</div></div>
+          <span class="case-expand-tip">expand/collapse</span>
+          <div class="case-details">
+            {% for pair in case.task_specific %}
+              <div style="margin:0.3em 0;">
+                <b style="color:{{ maincolor }};font-weight:600;">{{ pair[0] | replace: '_', ' ' | capitalize }}:</b>
+                <span style="{% if pair[0]=='question' %}font-weight:600;color:#111;{% else %}font-size:0.97em;color:#31425c;{% endif %}">{{ pair[1] | newline_to_br }}</span>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<!-- Personalized Comments Task -->
+<div class="task-block">
+  <div class="task-panel">
+    <h2 style="color:#16a085;text-align:center;">Task: Personalized Comments</h2>
+    {% assign maincolor = "#16a085" %}
+    <div class="filter-bar">
+      <label for="filter-comment-userid">UserID:</label>
+      <select name="userid" id="filter-comment-userid">
+        <option value="">All</option>
+        {% assign cases = site.data.behavior_cases | where: "task_name", "personalized comments" %}
+        {% assign userids = cases | map: 'userid' | uniq | sort %}
+        {% for id in userids %}<option value="{{ id }}">{{ id }}</option>{% endfor %}
+      </select>
+      <label for="filter-comment-source">Source:</label>
+      <select name="source" id="filter-comment-source">
+        <option value="">All</option>
+        {% assign sources = cases | map: 'source' | uniq | sort %}
+        {% for s in sources %}<option value="{{ s }}">{{ s }}</option>{% endfor %}
+      </select>
+    </div>
+    <div class="case-list-scroll">
+      {% for case in cases %}
+        <div class="case-card" data-prefix="comment" data-userid="{{ case.userid }}" data-source="{{ case.source }}">
+          <div class="case-summary"><div><b>UserID:</b> {{ case.userid }}</div><div><b>Source:</b> {{ case.source }}</div></div>
+          <span class="case-expand-tip">expand/collapse</span>
+          <div class="case-details">
+            {% for pair in case.task_specific %}
+              <div style="margin:0.3em 0;">
+                <b style="color:{{ maincolor }};font-weight:600;">{{ pair[0] | replace: '_', ' ' | capitalize }}:</b>
+                <span style="{% if pair[0]=='question' %}font-weight:600;color:#111;{% else %}font-size:0.97em;color:#31425c;{% endif %}">{{ pair[1] | newline_to_br }}</span>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<!-- Item Selection Task -->
+<div class="task-block">
+  <div class="task-panel">
+    <h2 style="color:#f368e0;text-align:center;">Task: Item Selection</h2>
+    {% assign maincolor = "#f368e0" %}
+    <div class="filter-bar">
+      <label for="filter-item-userid">UserID:</label>
+      <select name="userid" id="filter-item-userid">
+        <option value="">All</option>
+        {% assign cases = site.data.behavior_cases | where: "task_name", "item selection" %}
+        {% assign userids = cases | map: 'userid' | uniq | sort %}
+        {% for id in userids %}<option value="{{ id }}">{{ id }}</option>{% endfor %}
+      </select>
+      <label for="filter-item-source">Source:</label>
+      <select name="source" id="filter-item-source">
+        <option value="">All</option>
+        {% assign sources = cases | map: 'source' | uniq | sort %}
+        {% for s in sources %}<option value="{{ s }}">{{ s }}</option>{% endfor %}
+      </select>
+    </div>
+    <div class="case-list-scroll">
+      {% for case in cases %}
+        <div class="case-card" data-prefix="item" data-userid="{{ case.userid }}" data-source="{{ case.source }}">
+          <div class="case-summary"><div><b>UserID:</b> {{ case.userid }}</div><div><b>Source:</b> {{ case.source }}</div></div>
+          <span class="case-expand-tip">expand/collapse</span>
+          <div class="case-details">
+            {% for pair in case.task_specific %}
+              <div style="margin:0.3em 0;">
+                <b style="color:{{ maincolor }};font-weight:600;">{{ pair[0] | replace: '_', ' ' | capitalize }}:</b>
+                <span style="{% if pair[0]=='question' %}font-weight:600;color:#111;{% else %}font-size:0.97em;color:#31425c;{% endif %}">{{ pair[1] | newline_to_br }}</span>
               </div>
             {% endfor %}
           </div>

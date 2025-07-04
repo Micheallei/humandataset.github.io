@@ -1,0 +1,112 @@
+# - userid: u1001
+#   source: Reddit
+#   task_name: profile
+#   task_specific:
+#     profile: Profile text for u1001.
+# - userid: u1002
+#   source: Twitter
+#   task_name: persona
+#   task_specific:
+#     persona: Persona text for u1002.
+# - userid: u1003
+#   source: Amazon
+#   task_name: profile
+#   task_specific:
+#     profile: Profile text for u1003.
+# - userid: u1004
+#   source: Blogauthorship
+#   task_name: persona
+#   task_specific:
+#     persona: Persona text for u1004.
+# - userid: u1005
+#   source: Blogauthorship
+#   task_name: persona
+#   task_specific:
+#     persona: Persona text for u1005.
+# - userid: u1006
+#   source: Blogauthorship
+#   task_name: persona
+#   task_specific:
+#     persona: Persona text for u1006.
+# - userid: u1007
+#   source: Blogauthorship
+#   task_name: persona
+#   task_specific:
+#     persona: Persona text for u1007.
+# - userid: u1008
+#   source: Blogauthorship
+#   task_name: persona
+#   task_specific:
+#     persona: Persona text for u1008.
+
+- userid: 1000331
+  source: Blogauthorship
+  task_name: persona
+  task_specific:
+    persona: The user is a Canadian woman, likely in her 40s, a working mother of four young children, living in Winnipeg with her husband, who values family and flexibility in her career, often finding herself exhausted but seeking balance between work and personal life.
+
+- userid: 1000331
+  source: Blogauthorship
+  task_name: profile
+  task_specific:
+    profile: She is a working mother in her likely 40s, living in Winnipeg, Canada, with a husband and four young children, including a preschooler and kindergartners, who keep her busy and exhausted. As a librarian, she values flexibility in her work arrangements, allowing her to spend more time with her family, and is considering quitting her job to achieve this balance. She enjoys spending time with her children, taking them to Goldeyes games, and appreciates the simpler things in life, like having pizza nights on Fridays, which has become a family tradition. Her interests include reading, watching movies, and gardening, as she attempts to plant flowers in her spare time. Having attended her 20th high school reunion, she has reflected on how priorities change over time and is grateful for the opportunity to reconnect with old friends. With a sense of humor and a touch of sarcasm, she navigates the challenges of motherhood, marriage, and career, often finding solace in the quiet moments, like reading a book with her cats on a rainy day.
+
+- userid: 1000331
+  source: Blogauthorship
+  task_name: life stories
+  task_specific:
+    diary_entries:
+    - summary: "I bought tickets to the Goldeyes game for my Mom's birthday"
+      content: "I bought 15 tickets to the Goldeyes game for my Mom's birthday tonight and I'm a bit worried that it might rain. I checked if they cancel baseball games because of rain and it seems that the ballpark is beautiful but not as great as the SkyDome where we used to go to the Jays games when we lived in Toronto. We really like taking the kids to the Goldeyes games now and I'm glad that the tickets are cheaper here in Winnipeg. I'm looking forward to celebrating my Mom's birthday with the family."
+    - summary: "I set up my RSS feed and want to plant flowers"
+      content: "I just set up my RSS feed and it was so easy, I don't know why everyone doesn't do it. Now that it's done, I want to go outside and plant my poor flowers that have been in their pots for too long. However, my three kindergartners and preschooler are refusing to go outside and are hooked on their gameboys. I should probably limit their screen time, but I have to admit that I'm a bit of a junkie myself. I think I'll have to wait until they're ready to go out and play before I can start planting."
+    - summary: "I discussed canning food with coworkers"
+      content: "This morning at coffee break, we were talking about canning food and I realized that it's becoming a lost art. None of us who are under 40 know how to do it, and it made me wonder what would happen if we had to preserve our food somehow in case of an emergency. I found some websites on canning, but I'm not sure if that would be helpful if everything went wrong. I think I'll print out the instructions just in case, especially since we in Canada would definitely need to preserve our food in a crisis."
+    - summary: "I tried starting a blog again"
+      content: "I've tried starting a blog many times before, but it never feels right. However, I read that it's normal for it to feel strange at first, and that the more you do it, the better it gets. My husband bought me a notepad with a funny title and picture, and it struck me as hilarious and has stuck in my head. I'm giving blogging another try, and I'm hoping that it will get easier with time. I'm not sure what I'll write about, but I'm excited to find out."
+    - summary: "My four-year-old never stops talking"
+      content: "My four-year-old daughter never stops talking, and it's very exhausting. She'll say 'Mom?' and when I say 'Yes?', she'll say 'Ummm.... ummm... oh yeah, where do ladybugs hide in the rain?' just to hear her own voice. It's cute, but it's also draining. Sometimes I think that's why I go to work, just to get a break from the constant chatter. I love my daughter, but I need some quiet time to recharge."
+    - summary: "It's been raining a lot in Winnipeg"
+      content: "It's been raining nonstop in Winnipeg, and everything is green and flooded. People have wet basements, and there are lakes where there should be golf courses and fields. It's a bit depressing, but I'm trying to stay positive. At least it's supposed to be 26 degrees by Friday, so we'll have some warmer weather soon. I heard someone describe Winnipeg as an 'Old Testament' city, and it kind of rings true with all the floods and infestations we have to deal with."
+    - summary: "I want more flexible working arrangements"
+      content: "Paul Martin promised to create more affordable child care spaces if he's elected, but I think that's not enough. What I really need is more flexible working arrangements so I can spend time with my children. Instead of a year's maternity leave, I think it would be better if employers were required to allow women to work part-time for five years. That way, we could balance our work and family life better, and there would be more part-time child care spaces available. I'm considering quitting my job because it's just not working for me right now."
+    - summary: "I saw two movies over the weekend"
+      content: "I saw two movies over the weekend, one with my book club and one with my husband. It was nice to have some adult time and get out of the house. The first movie was okay, but not as good as Independence Day. The second movie was better, but still not great. I'm glad I got to spend time with my husband, though - we haven't been out together in a while, and it was nice to have some quality time together."
+    - summary: "I made pizza for a family gathering"
+      content: "We always have pizza on Friday nights, but this week we're having a family gathering at my mom's house, so I offered to make pizza for all the kids. I've been making dough in my breadmaker and freezing it, and now I need to cut vegetables for the vegetarian cousins' pizzas and grate a lot of cheese. It's a bit of a hassle, but it'll be worth it to see everyone together. I'm just hoping I can get everything to my mom's house without wrecking the crusts - that would be a disaster."
+    - summary: "I attended my 20th high school reunion"
+      content: "My 20th high school reunion was this weekend, and it was good to see so many people. There were over 100 people there, and it was funny to see how some people had changed a lot while others were still the same. I was a bit tired all week and glad to have some time off to rest afterwards. It was nice to catch up with old friends and reminisce about old times, but I'm also glad it's over and I can get back to my normal routine."
+
+
+- userid: 1000331
+  source: Blogauthorship
+  task_name: life journeys
+  task_specific:
+    diary_entries:
+    - summary: "Overall"
+      content: "I'm a busy working mom living in Winnipeg, Canada, with a loving family and a passion for spending time with my kids, watching baseball games, and enjoying the outdoors. I've recently started blogging to express my thoughts and feelings about my daily life, parenting, and social issues."
+    - summary: "Baseball and family"
+      content: "I bought 15 tickets to the Goldeyes game for my Mom's birthday, and I was worried that the rain might cancel the game. I've always loved taking my kids to the Goldeyes games, just like we used to go to the Jays games when we lived in Toronto. I checked the ticket prices and was happy to find that they're cheaper here in Winnipeg."
+    - summary: "Setting up blog"
+      content: "I finally set up my RSS feed, which was easier than I thought, and I'm excited to start blogging regularly. However, my plans were interrupted by my kids, who refused to go outside and play, preferring to stay indoors and play with their Gameboys. I couldn't blame them, though, as I'm a bit of a tech junkie myself."
+    - summary: "Canning food"
+      content: "During a coffee break at work, we discussed canning food, and I realized that it's becoming a lost art. I wondered if anyone under 40 still knows how to can food, and what would happen if we had to preserve food in case of an emergency. I found some online resources on canning, but I'm not sure if they'd be useful if the world as we know it ceased to exist."
+    - summary: "Blogging struggles"
+      content: "I've tried starting a blog before, but it never felt right. However, after reading that it's normal to feel strange at first, I decided to give it another try. My husband bought me a notepad with a humorous title and a picture of a 1950s housewife, which inspired me to keep writing."
+    - summary: "Parenting challenges"
+      content: "My four-year-old daughter never stops talking, and it's exhausting. She'll ask me questions just to hear her own voice, and it's challenging to keep up with her energy levels. Some days, I feel like going to work just to get a break from the constant chatter."
+    - summary: "Rainy days"
+      content: "The rain has been relentless, and it's affecting everyone in the city. People have wet basements, and the fields are flooded. I'm just glad that I can stay indoors with my book and cats on days like this. The weather forecast says it'll be 26 degrees by Friday, so we'll have to deal with mosquitoes soon."
+    - summary: "Movies and librarians"
+      content: "I haven't seen the new movie that everyone's talking about, but I heard it's not that great unless you're a librarian. As it happens, I am a librarian, so I'm curious to see it."
+    - summary: "Politics and childcare"
+      content: "Paul Martin promised to create 250,000 new affordable childcare spaces if he's elected, but I think that's not enough. What working women really need is more flexible working arrangements, like part-time work with job security. I've been thinking about quitting my job to spend more time with my kids, and it seems inevitable at this point."
+    - summary: "Movie night"
+      content: "I finally saw the movie that everyone's been talking about, and it was just okay. I also saw another movie with my book club, and one with my husband, which was a rare night out for us. It's nice to have some adult time every now and then."
+    - summary: "Family gatherings"
+      content: "We always have pizza on Friday nights, but this week we're having a family gathering at my mom's place. I offered to make pizza for all the kids, so I've been busy making dough and preparing toppings. It's not the usual relaxing Friday night, but it'll be nice to spend time with my family."
+    - summary: "High school reunion"
+      content: "My 20th high school reunion is this weekend, and I'm excited to see old friends. There are over 100 people coming, so it should be a great time. I've barely kept in touch with anyone from high school, so it'll be interesting to see how everyone's changed."
+    - summary: "Reunion aftermath"
+      content: "The reunion is over, and it was a great experience. Most people haven't changed much, but some have changed a lot. It was nice to catch up with old friends and reminisce about the past. I'm glad it's over, though, as I was exhausted all week and needed some time to rest."
+

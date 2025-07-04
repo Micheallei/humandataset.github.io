@@ -307,7 +307,7 @@ document.addEventListener('DOMContentLoaded', function() {
   </div>
 </div>
 
-<!-- ========== Life Journeys Task ========== -->
+<!-- ========== Life Journeys Task ==========
 <div class="task-block">
   <div class="task-panel">
     <h2 style="color:#a07ee5;text-align:center;">Task: Life Journeys</h2>
@@ -365,4 +365,4 @@ document.addEventListener('DOMContentLoaded', function() {
       {% endfor %}
     </div>
   </div>
-</div>
+</div> -->

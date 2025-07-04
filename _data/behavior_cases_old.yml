@@ -1,0 +1,20 @@
+- userid: 1000331
+  source: Blogauthorship
+  task_name: social qa
+  task_specific:
+    scenario: >
+      The blogger and their coworkers discussed canning food during their morning coffee break, realizing that none of them under 40 knew how to do it. They wondered what would happen if they had to preserve food in a catastrophic scenario. The blogger found online resources on canning, including a specific website.
+    question: How did the blogger plan to access the canning information in the event of a catastrophic scenario where digital resources might be unavailable?
+    answer: The blogger planned to print out the canning information and keep it, in case everything went wrong and they could no longer access the online resources.
+    raw_text: Oh, which just reminded me, we were talking about canning food at coffee break this morning.  Is this becoming a lost art?  Are there any people under 40 who know how to do this?  Those of us at coffee that fall in that age range couldn't.  What would happen if the world as we know it ceased to exist (a la Day After Tomorrow which is only being released today and I can't wait to see - I love a good escapist picture with lots of special effects) and we had to preserve our food somehow?  Well, we in Canada definitely would need to preserve our food.  I found lots of sites on canning, including this one, but I guess that wouldn't help me much if everything went. Better print it out and keep it just in case!
+
+
+- userid: 1000331
+  source: Blogauthorship
+  task_name: social qa
+  task_specific:
+    scenario: >
+      The author bought 15 tickets to the Goldeyes game for her Mom's birthday, but it is supposed to rain, and she is wondering if the game will be cancelled.
+    question: Will the author's plans for her Mom's birthday be ruined by the rain?
+    answer: The author is concerned that the rain might cancel the Goldeyes game, but she doesn't know for sure, and she mentions that the ballpark is beautiful, although not as good as the SkyDome, and that she used to go to the Jays games occasionally when she lived in Toronto.
+    raw_text: N/A

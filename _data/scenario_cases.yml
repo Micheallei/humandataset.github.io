@@ -1,38 +1,1010 @@
-- userid: 1000331
-  source: Blogauthorship
+- userid: 111453
+  source: reddit
   task_name: long scenario
   task_specific:
-    characters: 
-    - name: "Ava"
-      role: "a busy parent trying to balance household chores and childcare"
-    - name: "The kindergartners"
-      role: "three rambunctious young children addicted to gaming"
-    - name: "The preschooler"
-      role: "the youngest child who follows the lead of the older siblings"
-    summary: Ava struggles with getting her kids to go outside.
-    scenario: Ava stood in her sun-drenched living room, gazing out the window at the vibrant flowers waiting to be planted. But her attention was quickly diverted by the chorus of refusals from her four young children, all glued to their gaming devices. ""Just five more minutes, mom,"" one of the kindergartners pleaded, not looking up. Ava sighed, remembering the pots of neglected flowers on the porch. She tried to entice them, ""Who wants to help mom plant some beautiful flowers?"" But her words fell on deaf ears. The preschooler, mimicking the older kids, shook her head and continued playing. Ava couldn't help but laugh at the sight, admitting to herself that she was also guilty of getting lost in screens. ""Alright, alright. But just for a little while longer,"" she conceded, making a mental note to limit their screen time later.
-    raw text: Ha! Just set up my RSS feed - that is so easy!  Why doesn't everyone do it?  Enough for today.  The sun is shining and I should be outside planting my poor flowers (that have spent far too long in their pots) but I have 3 kindergartners and a preschooler who are refusing to go outside.  Little gameboy junkies...  I should talk!  Last post today, I promise.
-
-- userid: 1000331
-  source: Blogauthorship
+    characters:
+    - name: Alex
+      role: a young adult navigating social interactions and unsure about distinguishing
+        between friendship and flirting
+    - name: Sarah
+      role: a girl Alex has been friends with for a while, who is a huggy person and
+        occasionally initiates physical contact
+    - name: Emily
+      role: another girl Alex has been friends with for a few months, who is playful
+        and suggestive in her interactions
+    summary: Alex struggles to distinguish between friendship and flirting.
+    scenario: Alex sat in his room, scrolling through his phone as he thought about
+      his interactions with Sarah and Emily. He couldn't help but wonder if they were
+      just being friendly or if there was something more to it. He remembered the
+      time Sarah felt his stomach after a hug, and how Emily had suggested they have
+      a sleepover. "Want to have a sleepover? My mom is ok with boys spending the
+      night," she had said with a smile. Alex's mind was filled with questions - was
+      she flirting, or just being friendly? He thought about their time together,
+      watching the meteor shower, and how she had set all the tablets' backgrounds
+      to photos of them making funny faces. As he pondered, he realized that he was
+      also developing feelings for Emily, but was afraid to ask her to hang out, fearing
+      it might seem like he was flirting or being creepy. The line between friendship
+      and something more seemed blurred, and Alex wasn't sure how to navigate it.
+- userid: 200212
+  source: reddit
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Alex
+      role: a male adult who wants to learn how to sing and improve his pitch matching
+        skills despite having no formal training
+    summary: Alex struggles to sing with proper pitch and range.
+    scenario: Alex sat in his car, windows rolled down, belting out his favorite tune.
+      At first, he was horrified by the sound of his own voice, but over the years,
+      he'd noticed improvement. He could match pitches in some songs, his voice blending
+      softly with the melody. However, whenever he tried to sing along to something
+      more upbeat or with higher notes, his voice cracked and faltered. "Why can't
+      I just sound decent?" he thought, frustration creeping in. He remembered his
+      elementary school music classes, but they seemed like a distant memory, hardly
+      relevant to his current struggles. As he pulled into his driveway, he wondered
+      if it was too late to learn the basics of vocals, to somehow expand his limited
+      range and strengthen his voice. He envisioned himself singing with confidence,
+      his voice full and rich, but for now, that seemed like an unattainable dream.
+- userid: 1356685
+  source: reddit
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: F
+      role: a 19-year-old woman cautious in relationships due to trust issues
+    - name: M
+      role: a 21-year-old man who has been friends with F for 10 months and is now
+        pursuing a romantic relationship
+    summary: F struggles with M's rapid pace in their new relationship.
+    scenario: F's eyes narrowed slightly as M's words hung in the air, "We should
+      have kids someday." The joke, meant to be lighthearted, fell flat. They sat
+      on the couch, the dim glow of the TV casting a pale light on their faces. F's
+      mind raced, memories of past betrayals and disappointments resurfacing. "It's
+      too soon," she said, trying to keep her tone even, but the edge of frustration
+      seeped through. M's expression changed, a flicker of surprise followed by a
+      reassuring smile. "I just mean, I really like you," he said, reaching for her
+      hand. F pulled back, her thoughts a jumble of distrust and uncertainty. "I need
+      time," she whispered, the silence that followed heavy with unspoken questions
+      and doubts.
+- userid: 539024
+  source: reddit
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Ava
+      role: a busy hostess in her early 20s, often preoccupied with managing restaurant
+        seating
+    - name: The Blind Guest
+      role: a diner who relies on assistance for navigation and reading, accompanied
+        by a supportive friend
+    - name: The Friend
+      role: the blind guest's companion, aware of her needs and supportive in public
+        situations
+    summary: Ava unintentionally hands a menu to a blind person.
+    scenario: Ava rushed past tables, her eyes scanning the dining area for empty
+      seats and waiting guests. In her haste, she approached a woman, menu in hand,
+      and said, "Here you are," before quickly moving on to the next task. It wasn't
+      until she walked by the table again, noticing the woman's friend reading from
+      the same menu, that realization hit her. The woman's hands rested gently on
+      the table, her face tilted upwards as she listened intently to her friend's
+      description of the dishes. Ava's footsteps faltered, her mind replaying the
+      moment she had handed the menu to the blind guest. A wave of guilt washed over
+      her, making her cheeks flush. She longed to apologize, to make it right, but
+      her embarrassment rooted her to the spot, unable to muster the courage to return
+      to the table.
+- userid: 312964
+  source: reddit
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Alex
+      role: a board game enthusiast who values social interactions and unique gaming
+        experiences
+    - name: Alex's SO
+      role: Alex's significant other who shares an interest in board games and introduced
+        Alex to cooperative games like Pandemic
+    - name: Friends
+      role: a group of friends who share Alex's passion for board games and often
+        meet up for game nights
+    summary: Alex reflects on their board game collection journey.
+    scenario: Alex sat amidst their sprawling board game collection, a nostalgic smile
+      spreading across their face as they reminisced about the journey that had brought
+      them to this point. It all started three years and eight months ago, when they
+      and their friends purchased the Game of Thrones board game from a stranger who
+      claimed to have no one to play with. This chance encounter sparked a passion
+      that would only continue to grow, with games like Eldritch Horror and Pandemic
+      becoming staples of their game nights. Alex's significant other had been a significant
+      influence, gifting them Pandemic Legacy on their birthday and introducing them
+      to the world of cooperative games. As Alex delved deeper into the hobby, they
+      discovered a fondness for Euro-style games, with titles like Puerto Rico and
+      Lords of Waterdeep becoming favorites. Their friends had been a constant source
+      of discovery, introducing them to new games and expansions, and Alex cherished
+      the unique stories that emerged from each play session, particularly with games
+      like Eclipse. The sound of shuffling cards, the rattle of dice, and the murmur
+      of strategic discussions filled the air as Alex and their friends gathered around
+      the table, lost in the thrill of competition and camaraderie.
+- userid: 1645308
+  source: reddit
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Ava
+      role: a concerned girlfriend in a 3+ year relationship seeking reassurance and
+        effort from her partner
+    - name: Boyfriend
+      role: a trustworthy but currently struggling partner who is finding it hard
+        to meet Ava's emotional needs due to life's challenges
+    summary: Ava questions her boyfriend's promise to treat her better when life gets
+      easier.
+    scenario: Ava sat on the couch, her eyes fixed on her boyfriend as he spoke, his
+      words laced with a mix of frustration and apology. "I know I haven't been the
+      partner I should be," he said, "but once things get easier, I'll treat you like
+      you deserve." Ava's mind wandered to all the times she'd heard similar promises,
+      only to see life throw more challenges their way. She thought about the little
+      annoyances that popped up daily, like a game of Whack-a-Mole, where fixing one
+      issue only led to two more. "Life doesn't get easier," she wanted to say, "it
+      just changes." Instead, she listened, her heart seeking reassurance that he
+      understood the big picture—that she deserved to be treated with love and care
+      not despite the challenges, but within them. As she looked at him, she wondered
+      what she could do to make him see things from her perspective, to make him understand
+      that his effort was needed now, not sometime in the future.
+- userid: 1762672
+  source: reddit
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Alex
+      role: a young man in his early 20s, recently broken up from a 4-year relationship,
+        struggling with jealousy and low self-esteem
+    - name: His ex-girlfriend
+      role: a woman who enjoyed the attention of others, often leaving Alex feeling
+        unwanted and insecure
+    summary: Alex navigates jealousy in past relationship.
+    scenario: Alex's eyes would narrow slightly as he watched another guy flirt with
+      his girlfriend, his mind racing with the urge to intervene. But he'd learned
+      to handle these situations with a mix of playfulness and subtle assertiveness.
+      "Nothing she doesn't already know," he'd say with a smirk, trying to deflect
+      the attention without making a scene. He remembered the times he'd correct others
+      on how good she looked, or crack a joke to lighten the mood. Despite his outward
+      calm, Alex's insides churned with jealousy, a feeling he'd smothered for years
+      to avoid conflict. He'd give his girlfriend space to handle the situation, but
+      deep down, he just wanted to leave, to escape the discomfort of watching her
+      enjoy the attention of others. As he looked back on the relationship, Alex realized
+      that his attempts to be understanding and accommodating had come at a great
+      cost to his own self-esteem.
+- userid: 311738
+  source: reddit
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Alex
+      role: a 27-year-old contractor at a tech company, feeling unfulfilled and uncertain
+        about their career path, with a strong desire to pursue further studies
+    - name: Alex's parents
+      role: supportive providers who have allowed Alex to live at home, helping them
+        save money
+    summary: Alex faces a financial dilemma between paying off student debt and pursuing
+      further studies.
+    scenario: Alex sat at their desk, staring at the stack of bills and financial
+      documents in front of them, the weight of their student debt looming over their
+      shoulders. They had been working towards paying it off for years, but now that
+      the finish line was in sight, they were faced with a new dilemma. "What's the
+      point of being debt-free if I'm not doing something I love?" Alex thought to
+      themselves, feeling trapped in their current job. They imagined the freedom
+      of pursuing further studies, of taking courses that would lead them to a more
+      fulfilling career, but the cost was daunting. Alex's mind wandered to their
+      parents, who had generously allowed them to live at home, saving them thousands
+      in living expenses. "I wish I could talk to them about this," Alex thought,
+      but they were hesitant to burden their parents with their financial worries.
+      As they pondered their next move, Alex's eyes landed on their computer, where
+      they had been researching investment options and budgeting strategies, hoping
+      to find a way to make their dreams a reality.
+- userid: 303976
+  source: reddit
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Alex
+      role: a young man who tried to date a girl but is now overwhelmed by her constant
+        texts and attention
+    - name: The Girl
+      role: a clingy and emotional individual who is struggling to accept Alex's changed
+        feelings and boundaries
+    summary: Alex struggles with letting down a clingy girl.
+    scenario: Alex sat at his desk, his phone buzzing with another text from her.
+      He let out a sigh, feeling a mix of guilt and frustration. They had talked a
+      lot in the past, and he had been interested in her, but she hadn't felt the
+      same way. Now, the tables had turned, and she was the one pursuing him relentlessly.
+      "I miss talking to you all the time," her latest text read. Alex rubbed his
+      temples, trying to think of a gentle way to let her down. He remembered the
+      times she had rejected him, and how he had respected her decision. "Why can't
+      she do the same?" he thought. He began to type out a response, trying to find
+      the right words to convey his feelings without hurting hers. "Hey, I appreciate
+      you reaching out, but I've been really busy lately..." he started, hoping to
+      slowly create some distance between them.
+- userid: 1839359
+  source: reddit
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Alex
+      role: a concerned father in his mid-to-late 30s planning for his daughter's
+        future
+    - name: Alex's wife
+      role: a mother who inherited $40k from her late father and is considering saving
+        for their children's education
+    - name: Alex's daughter
+      role: a 5-year-old girl starting kindergarten
+    - name: Alex's stepson
+      role: a 20-year-old Navy member
+    summary: Alex seeks guidance on college funds for his daughter.
+    scenario: Alex sat at his desk, staring at the computer screen as he scrolled
+      through financial forums, his mind preoccupied with the future. His daughter,
+      full of energy and curiosity, was about to start kindergarten, and the reality
+      of saving for her college education had hit him. He thought about the $20k his
+      wife had set aside for her, a portion of the $40k she had inherited from her
+      late father. "We should put this into a college fund," he had told his wife,
+      but now he was unsure where to begin. His stepson, already 20 and serving in
+      the Navy, seemed to have grown up so fast. Alex wanted to make the right decision
+      for his little girl, to give her every opportunity. He rubbed his temples, feeling
+      a bit overwhelmed, and decided to reach out for advice, hoping someone could
+      guide him through the process.
+- userid: 13995
+  source: twitter
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Ava
+      role: a skeptical individual who questions others' trustworthiness
+    - name: Adams
+      role: a person perceived as untrustworthy and unethical by Ava
+    summary: Ava doubts Adams' claims about chronic illness.
+    scenario: Ava's eyes narrowed as she read Adams' latest post, her mind racing
+      with skepticism. The words "chronic illness" seemed to leap off the page, but
+      she couldn't shake the feeling that he was being dishonest. Memories of his
+      past deceitful actions flooded her mind, and she felt a surge of frustration.
+      "How can I believe you now?" she thought to herself, the quotation marks she
+      mentally placed around his words a testament to her distrust. As she sat in
+      her cozy living room, surrounded by the comforting glow of table lamps, Ava's
+      thoughts turned to the people she knew who truly struggled with illness, and
+      her sympathy for them only deepened her skepticism of Adams' claims.
+- userid: 89759
+  source: twitter
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Ava
+      role: a gamer in their mid-twenties reflecting on the themes of The Last of
+        Us 2, empathizing with its characters
+    - name: Ellie
+      role: the protagonist of The Last of Us series, a strong and emotional character
+    - name: Abby
+      role: the antagonist of The Last of Us 2, with a complex and sympathetic backstory
+    summary: Ava ponders the violence and sympathy in The Last of Us 2.
+    scenario: Ava sat in the dimly lit room, the TV screen still glowing with the
+      aftermath of The Last of Us 2's intense finale. The controller lay on the coffee
+      table, a reminder of the emotional journey Ava had just experienced. As Ava
+      thought about the game's themes, the character of Abby came to mind. "She's
+      not just a villain," Ava thought, "she's a reflection of Ellie, a product of
+      the violent world they live in." Ava remembered the heartfelt moments with Ellie
+      in both games, and how Abby's storyline, though shorter, served the same purpose—to
+      show that everyone has a reason for their actions, that violence begets violence.
+      The more Ava thought about it, the more Ava realized that the game wasn't about
+      choosing sides, but about understanding the humanity in both Ellie and Abby.
+      "They're both sympathetic," Ava whispered, the characters' struggles and motivations
+      still echoing in their mind.
+- userid: 71322
+  source: twitter
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Mom
+      role: a concerned and empathetic parent who has experienced loss due to a preventable
+        disease
+    - name: The family members
+      role: loved ones who have been affected by the loss of a family member due to
+        the disease
+    summary: Mom shares her experience with vaccine prevention.
+    scenario: Mom's voice trembled as she spoke, the weight of her words hanging in
+      the air. "It's not a scare tactic trying to get people to get vaccines," she
+      said, her eyes welling up with tears. The room fell silent, the only sound the
+      soft hum of the clock on the wall. She paused, collecting her thoughts before
+      continuing, "We try to tell people that it's very real." The pain in her voice
+      was palpable, a pain that came from experiencing the loss of a loved one. "And
+      it very much takes people away from your family," she whispered, her voice cracking.
+      The memory of the lost family member seemed to wash over her, and for a moment,
+      she was back in the hospital, holding their hand, feeling the warmth slip away.
+      "It's very much there, and that these people have names and that these families
+      hurt," she said, her words a desperate plea to those who would listen.
+- userid: 120130
+  source: twitter
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Ava
+      role: a young Iranian woman advocating for personal freedom and autonomy over
+        her own body
+    summary: Ava demands control over her body.
+    scenario: Ava stood in the crowded square, her voice hoarse from chanting slogans
+      alongside hundreds of other women. The air was thick with the smell of smoke
+      and sweat. As she looked around, her eyes met those of a woman being dragged
+      away by authorities, her hijab torn, her face bruised. The scene ignited a fire
+      within Ava. She remembered the countless times she was told what to wear, how
+      to behave, and what was expected of her. "My body, my choice," she whispered
+      to herself, before loudly proclaiming, "You don't get to decide for my body,
+      at least learn that." The words echoed through the square, a defiant declaration
+      of autonomy and freedom. As she spoke, Ava felt a sense of liberation wash over
+      her, a sense of taking back what was rightfully hers.
+- userid: 20246
+  source: twitter
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Alex
+      role: a concerned parent in their mid-30s who values social justice and is having
+        a conversation with their kid
+    - name: The Kid
+      role: Alex's child who is aware of social issues and criticizes exploitation
+        of Indigenous people
+    summary: Alex discusses cultural exploitation with their kid.
+    scenario: Alex sat in the living room, engaged in a heated discussion with their
+      kid, who had just pointed out the glaring issue with a popular brand. "It's
+      based on practices and images of 1st Nations people," the kid said, their voice
+      filled with conviction, "but they're not being compensated." Alex's eyes widened
+      as they considered their child's words. The kid continued, "He didn't hire Indigenous
+      people, and none of the billions of dollars he's making goes to 1st Nations
+      people." The room fell silent for a moment, the only sound the ticking of the
+      clock on the wall. Alex nodded, taking a deep breath. "You're right, it does
+      make it exploitative," they admitted, feeling a surge of pride in their kid
+      for recognizing the injustice. As they sat there, Alex couldn't help but think
+      about the broader implications of cultural appropriation and the importance
+      of amplifying Indigenous voices.
+- userid: 136622
+  source: twitter
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Alex
+      role: a scholar who has studied coups and their aftermath, with a deep understanding
+        of their devastating effects
+    - name: The Politician
+      role: a public figure who incited a violent mob, sparking controversy and concern
+    summary: Alex reacts to misuses of the term coup.
+    scenario: Alex sat at their desk, eyes scanning the latest news headlines with
+      a mix of frustration and disgust. The word "coup" jumped out, but it wasn't
+      in reference to the violent military takeovers they had spent years studying.
+      Instead, it was being tossed around by armchair pundits to describe content
+      moderation decisions. Alex's mind flashed back to the interviews they had conducted
+      with survivors of real coups, the scars still etched on their faces, the trauma
+      still echoing in their voices. "It's grotesque," Alex muttered to themselves,
+      recalling the generals they had met, the countries they had seen ruined by such
+      violence. The contrast between those horrors and the current careless usage
+      was stark. "Absolute morons," Alex thought, shaking their head, as they remembered
+      the politician's role in inciting a violent mob, an action that had real-world
+      consequences, not just a matter of online debate.
+- userid: 24739
+  source: twitter
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Alex
+      role: a disillusioned office worker reflecting on the changing dynamics of professional
+        relationships during the COVID-19 pandemic
+    - name: The Coworkers
+      role: colleagues who prioritize conformity and attending social events to advance
+        their careers
+    summary: Alex ponders the shift in office dynamics.
+    scenario: Alex sat at their desk, the fluorescent lights overhead casting an unforgiving
+      glare on the computer screen. The office, once a hub of watercooler chats and
+      forced camaraderie, now felt like a battleground where masks—both literal and
+      metaphorical—were worn to conceal true intentions. As they scrolled through
+      their social media feed, a post from an old friend caught their eye, reminding
+      them of coworkers who still clung to the outdated belief that "going along to
+      get along" was the key to success. "Gaslighting others about COVID, eagerly
+      attending holiday parties—is their path to riches and advancement," Alex thought,
+      a mixture of disdain and pity swirling in their chest. They recalled the countless
+      times these coworkers would downplay the severity of the pandemic, all in the
+      name of professional expediency. The more Alex pondered this, the more they
+      realized that such tactics, once perhaps effective, now reeked of desperation
+      and ignorance in a world forever changed by disease and uncertainty.
+- userid: 97199
+  source: twitter
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Ava
+      role: a diligent artist overwhelmed by a recent project deadline
+    summary: Ava felt exhausted from creating numerous sketch covers.
+    scenario: Ava's pencil scratched against the paper, the sound echoing through
+      her small, cluttered studio. She had been working non-stop for 48 hours, fueled
+      by a mix of adrenaline and desperation. The stack of sketch covers beside her
+      seemed to grow taller by the minute, each one a reminder of the looming deadline.
+      As she finished the 18th cover, Ava let out a deep sigh, her eyes burning from
+      lack of sleep. "I want to die lol," she joked to herself, the humor a thin veil
+      for the frustration and exhaustion that threatened to consume her. She rubbed
+      her tired eyes, the thought of taking a break a distant luxury she couldn't
+      yet afford.
+- userid: 37057
+  source: twitter
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Alex
+      role: a pragmatic individual in their mid-twenties who understands the sacrifices
+        required for dream jobs
+    summary: Alex weighs the sacrifices of dream jobs.
+    scenario: Alex sat in the dimly lit coffee shop, sipping on a lukewarm coffee
+      as they pondered the harsh realities of pursuing a dream job. The sounds of
+      espresso machines and muted conversations filled the air. "It's a tough deal,
+      but someone's gotta do it," Alex thought to themselves, reflecting on the countless
+      individuals vying for a spot in the competitive worlds of NASCAR, Broadway,
+      or Nashville. As they scrolled through their social media feed, they stumbled
+      upon a post from a young aspiring NASCAR driver, struggling to make ends meet
+      while interning for a top team. Alex's mind began to wander, "If it's about
+      paying rent at 18-25, sports, actor, singer probably not a good job," they thought,
+      considering the financial struggles that often accompanied these careers. The
+      aroma of freshly brewed coffee wafted through the air, but Alex's thoughts remained
+      fixed on the sacrifices one must make for the sake of their passion.
+- userid: 55196
+  source: twitter
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Alex
+      role: an enthusiastic fan who attended a rally and was excited to meet Bernie
+        and Jane
+    - name: Bernie
+      role: a public figure who had recently suffered a minor injury, evident from
+        a bandage on his head
+    - name: Jane
+      role: Bernie's companion, likely a public figure or someone of importance
+    summary: Alex met Bernie and Jane backstage at a rally.
+    scenario: The air was electric in the VIP area behind the stage, the residual
+      energy of the rally still pulsating through the crowd. Alex, still buzzing from
+      the event, quickly moved to the side of the VIP area as Bernie and Jane prepared
+      to leave. Getting remarkably close, Alex couldn't help but notice the bandage
+      on Bernie's head—a reminder of his recent mishap with a glass shower door. "Were
+      you there too?" Alex wondered, feeling a rush of excitement at the proximity
+      to these figures. As Bernie and Jane departed, the brief glimpse of them left
+      Alex on a high, the energy of the rally still coursing through their veins.
+      The memory of that moment, with the bandage on Bernie's head a vivid detail,
+      would stay with Alex long after the night was over.
+- userid: 1417798
+  source: blogauthorship
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Ava
+      role: a lively and impatient blogger in her likely 20s or 30s, enthusiastic
+        about receiving a signed picture and interacting with her online friends
+    - name: Leslie
+      role: a friend of Ava's who shares similar interests and sense of humor
+    - name: Melissa
+      role: another friend who offers advice and participates in the group's discussions
+        about books and celebrities
+    - name: Rick
+      role: a celebrity figure whom Ava and her friends admire, known for his sense
+        of humor and acknowledgement of his fan base
+    - name: Shep
+      role: someone who might be interested in true crime, possibly a celebrity or
+        an acquaintance of the group
+    - name: Teri
+      role: a friend of Ava's who shares physical characteristics and enthusiasm for
+        the group's activities
+    - name: Ellen
+      role: a new member of the group, welcomed by Ava and others
+    summary: Ava eagerly awaits a signed picture and interacts with friends online.
+    scenario: Ava sat at her desk, eyes fixed on the clock as she waited for the mail
+      to arrive, her excitement building with each passing minute. She had been waiting
+      for what felt like an eternity for her signed picture to come in the mail, and
+      today's horoscope had hinted that it might finally arrive. "Where's my damn
+      picture?" she joked to herself, her impatience getting the better of her. As
+      she scrolled through her blog, she came across a message from Leslie, and her
+      face lit up with a smile. "You're on, girl! Name the time & place," she typed
+      out in response, already looking forward to their next get-together. The sound
+      of her stomach growling reminded her that she was running late for lunch, but
+      she couldn't tear herself away from the screen, too caught up in the conversation
+      with her friends about books, celebrities, and their shared quirks. "I'm sorta
+      squeamish," she admitted, "it depends," as she discussed her preferences with
+      Melissa. The room was filled with the sound of her laughter and the hum of the
+      computer, a cozy atmosphere that made her feel connected to her friends, even
+      from a distance.
+- userid: 3073748
+  source: blogauthorship
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Ava
+      role: a young adult who has recently fallen ill with a mystery virus and is
+        experiencing a shift in food preferences
+    summary: Ava develops aversion to meat after illness.
+    scenario: Ava sat at her kitchen table, staring down at the plate of food her
+      friend had brought over. The smell of roasted chicken wafted up, and her stomach
+      churned in response. Just a few weeks ago, she would have devoured this meal
+      without hesitation, but since falling ill with the mystery virus, everything
+      had changed. The mere mention of meat now made her queasy. "I'm sorry," she
+      said, pushing the plate away, "I just can't stand the thought of eating this."
+      Her friend looked concerned, "But you need to keep your strength up," she urged.
+      Ava nodded, feeling a wave of frustration. She had always been a meat-lover,
+      and the idea of giving it up was daunting. Yet, as she glanced at the plate
+      again, her mind recoiled. "Maybe some cheese savouries instead?" she suggested,
+      hoping to find a compromise. Her friend smiled and nodded, "I can make that
+      work."
+- userid: 3366576
+  source: blogauthorship
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Ava
+      role: the playwright, a sentimental and introspective person seeking meaning
+        in art and life
+    - name: Simone
+      role: a young musician, the stronger and more proactive partner in her relationship
+        with Tim, driven by artistic integrity
+    - name: Tim
+      role: Simone's partner, a nice but simple guy who needs Simone to bring out
+        the best in him
+    - name: Nikolai
+      role: a record producer, charming but manipulative, prioritizing personal drama
+        over art
+    - name: Francisco
+      role: Nikolai's partner, equally absorbed in their own drama, contributing to
+        the exploitation in the music industry
+    summary: Ava reflects on her play L.E.A.R. and its exploration of art and relationships.
+    scenario: Ava sat at her desk, surrounded by drafts of her play L.E.A.R., her
+      mind wandering to the characters she had created. Simone and Tim, the young
+      couple at the center of the story, were her favorites - their struggles to maintain
+      their relationship and artistic integrity in the face of the absurd music industry
+      resonated deeply with her. As she thought about Nikolai and Francisco, the manipulative
+      record producers, Ava's expression turned critical - their actions, though entertaining,
+      were a commentary on the darker side of the industry. She believed that beneath
+      the humor and satire, her play held a truth, a message about the importance
+      of staying true to oneself and one's art. Ava's eyes sparkled as she thought
+      about Simone's journey, her growth, and her ultimate realization that with Tim
+      by her side, she could stay grounded and focused on her music. The playwright's
+      own heartache and experiences had seeped into the story, and she hoped that
+      others would find solace and meaning in it, just as she had.
+- userid: 3307703
+  source: blogauthorship
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Alexis
+      role: a young performer excited about an upcoming talent show and seeking to
+        impress her friends and someone special
+    - name: Brad
+      role: Alexis’s singing partner who has a say in her costume choice
+    - name: Steve
+      role: someone Alexis hopes to impress with her performance and appearance
+    summary: Alexis prepares for a talent show.
+    scenario: Alexis stood in front of her closet, scanning through her dresses as
+      she hummed the tune of "Come What May" from Moulin Rouge. She and Brad had been
+      practicing for weeks, and their performance at Freestyle, the upcoming fundraising
+      talent show, was just around the corner. Brad had suggested she wear a red,
+      casual dress, but as she gazed at her dark hot pink, shimmery prom dress, she
+      couldn’t help but feel it was the perfect choice. It reminded her of the dress
+      from the movie cover, elegant and captivating. She imagined herself on stage,
+      the lights shining down, and Steve’s eyes locked on her, thinking she looked
+      gorgeous. A smile spread across her face as she thought about asking Brad about
+      the dress on Saturday. She was excited not just for her own performance but
+      to see her friends' acts as well, and she knew the whole show was going to be
+      fantastic.
+- userid: 3991369
+  source: blogauthorship
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Alex
+      role: the blogger, someone who cares deeply for the clown and tries to understand
+        him
+    - name: The Clown
+      role: a person who hides his pain behind a smile and makes a living out of making
+        others laugh, despite his own sorrow
+    summary: Alex comforts the clown in a moment of vulnerability.
+    scenario: The clown sat with tears streaming down his face, his smile a stark
+      contrast to the sadness in his eyes. Alex watched, moved by the depth of his
+      emotions, knowing that behind the painted-on happiness, the clown hid a world
+      of pain. "He cries so much," Alex thought, "as much as he makes people laugh,
+      he cries for himself." The clown's words echoed in Alex's mind, "I'm not blessed,"
+      but in this moment, Alex didn't care about blessings; they just held each other.
+      The clown's job was to make people laugh, and he was good at it, but Alex had
+      noticed how hard it was to bring a genuine smile to his face. Alex had tried,
+      but it didn't work. So, they just sat there, Alex holding the clown in a warm
+      embrace, the clown's smile, though weak, a sign of comfort in his vulnerability.
+      "It's okay," Alex seemed to say, without saying a word, and for a moment, the
+      clown's smile wasn't silly or stupid; it was a smile of being understood.
+- userid: 3310103
+  source: blogauthorship
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: The mother
+      role: a concerned and supportive parent trying to balance encouragement with
+        respecting her daughter's autonomy
+    - name: Susanne
+      role: the mother's strong-willed daughter who is rehearsing for a play at the
+        Youth Theatre
+    - name: Sally Webster
+      role: a character from Coronation Street who is referenced as an example of
+        an overbearing parent
+    summary: Susanne rehearses for a play at Youth Theatre.
+    scenario: The mother sat in the living room, watching her daughter Susanne rehearse
+      her lines in front of the mirror. She couldn't help but think of Sally Webster
+      from Coronation Street, whose relentless push for her daughter's success had
+      often led to friction. The mother worried that she might unintentionally follow
+      in Sally's footsteps, overwhelming Susanne with pressure. But as she looked
+      at her daughter, she saw a strong-willed young girl who knew her own mind. "I
+      just want you to be happy, sweetie," the mother said, trying to sound casual.
+      Susanne turned around, a determined look on her face. "I am happy, Mum. I love
+      this play." The mother smiled, feeling a mix of relief and pride. She knew that
+      Susanne would speak up if she didn't want to continue with the play, and that
+      thought reassured her.
+- userid: 4074829
+  source: blogauthorship
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Anonymous Blogger
+      role: a self-deprecating and honest individual struggling with feelings of isolation
+        and a stagnant sex life, working in a lab and navigating friendships and potential
+        romantic interests
+    - name: Buddy With Boobs
+      role: a close friend and colleague of the blogger, kind and lonely, with a complicated
+        marital situation and a strong connection with the blogger
+    - name: Reckless & Dream Girl
+      role: the blogger's best friends and hosts, parents of four children, providing
+        a sense of family and comfort
+    - name: The Boy
+      role: the blogger's 4-year-old son, energetic and loud, bringing both joy and
+        frustration
+    summary: Blogger feels isolated and stagnant.
+    scenario: The blogger sat at the desk, surrounded by the warm and chaotic atmosphere
+      of their friends' home, where they had been staying for a while. Despite the
+      comfort and familiarity, they couldn't shake off the feeling of isolation that
+      had been growing inside them. It was as if they had outstayed their welcome,
+      and the thought filled them with a strange, empty feeling. The blogger's mind
+      wandered to their job at the lab, where changes were afoot, and their own application
+      for a new position had been submitted, driven more by curiosity about their
+      future in the company than a genuine desire for the role. The distraction of
+      work and the excitement of bidding for White Stripes tickets on eBay with their
+      friend Buddy With Boobs had momentarily lifted their spirits. Buddy With Boobs,
+      with her kind heart and complicated marital situation, had a special place in
+      the blogger's life - a connection that was both platonic and charged with unspoken
+      tension. As the blogger reflected on their week, they realized that writing
+      about their experiences had been therapeutic, and for the first time in a while,
+      they felt a glimmer of hope and a renewed sense of purpose.
+- userid: 2645746
+  source: blogauthorship
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Jan
+      role: a young adult struggling to find motivation and direction, feeling pressured
+        to focus on their studies
+    - name: The gay guy
+      role: a classmate who sits next to Jan in their maths course, perceived as annoying
+        by Jan
+    - name: Pee Tae
+      role: the lecturer of Jan's maths course, a fan of Rakanok online game and Harry
+        Potter, known for making funny jokes
+    - name: Jan's father's friend
+      role: a family acquaintance who suggests Jan study law and takes them out for
+        Italian food
+    summary: Jan attends maths class and meets with father's friend.
+    scenario: Jan trudged into the maths classroom, still feeling the weight of a
+      lazy morning spent reading Harry Potter. As they took their seat, a familiar
+      face appeared beside them - the gay guy from their class, who always seemed
+      to find a way to sit next to Jan. "Where is your seat, Adipa? I will sit next
+      to you," he said with a smile, prompting Jan to point to their seat and watch
+      as he rearranged his books to sit beside them. Jan couldn't help but think,
+      "Why! Why!" as the lecturer, Pee Tae, began the lesson. Pee Tae's enthusiasm
+      for permutation was infectious, but Jan's mind started to wander as he launched
+      into a tangent about Rakanok online game and Harry Potter. After class, Jan
+      met up with their father's friend, who suggested they study law - a prospect
+      that left Jan feeling unenthused. Over a heavy Italian meal, Jan struggled to
+      muster excitement, their mind drifting back to the comfort of their room and
+      the familiarity of online communities. As the night drew to a close, Jan returned
+      home, ironed their clothes, and flipped through TV channels before settling
+      on an English language movie - only to turn it off in frustration, finding more
+      solace in the quiet companionship of the online world.
+- userid: 1784456
+  source: blogauthorship
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Izzy
+      role: a young and energetic individual who enjoys Disney movies and gaming
+    summary: Izzy excitedly shares plans before a week-long trip to Scotland.
+    scenario: Izzy plopped down on the couch, a huge grin still plastered on her face
+      from watching The Road to El Dorado. "It's soooo funny!" she exclaimed, feeling
+      carefree. With her upcoming trip to Scotland just a day away, she couldn't wait
+      to explore. But as she thought about the week ahead, a pang of panic set in
+      - no PlayStation, no internet. "A whole week without a playstation and no net?!
+      You've got to be kidding me!" she cried out in mock horror, throwing her hands
+      up in the air. Determined to make the most of her last night at home, Izzy jumped
+      up, exclaiming "I'm gonna go make the most of my having-a-playstation-time.
+      Bisi!" as she rushed off to indulge in a marathon gaming session.
+- userid: 1549532
+  source: blogauthorship
+  task_name: long scenario
+  task_specific:
+    characters:
+    - name: Aurélie
+      role: a young adult navigating daily life, relationships, and personal interests
+        with a mix of French and English expressions
+    - name: Colza
+      role: presumably a pet or companion that Aurélie cares for, possibly a horse
+        given the context of "pré d'Hymia" and "dессélé"
+    - name: B
+      role: a friend or acquaintance who recently broke up with his girlfriend and
+        shares moments with Aurélie
+    - name: Rick
+      role: someone Aurélie has been trying to contact or hear back from, with news
+        of a response bringing her joy
+    - name: G
+      role: an individual whose CB (possibly a phone or communication device) Aurélie
+        has found, indicating a resolution to a lost item
+    - name: T
+      role: a person Aurélie wants to talk to but is currently unavailable online
+    summary: Aurélie enjoys small victories and social interactions amidst daily routines.
+    scenario: 'Aurélie sat on her couch, surrounded by the remnants of a relaxing
+      evening: a half-empty bottle of wine, a plate with leftover cheese, and the
+      soft glow of the TV. She had just finished a decent day, waking up early to
+      study and later spending quality time with Colza at the pré d''Hymia. As she
+      watched Colza roll around in the grass, feeling the sun on her back and listening
+      to her contented sighs, Aurélie couldn''t help but smile. The simplicity of
+      the moment was a welcome respite from her thoughts about relationships and life
+      after the war, which seemed to weigh heavily on her mind as she switched between
+      French and English, reflecting her mixed cultural influences. Later, as B arrived
+      after his athletic training, they shared a casual evening, discussing his recent
+      breakup and watching TV together. The highlight of her day, however, was receiving
+      a response from Rick and finding G''s CB, small victories that made her feel
+      like things were finally coming together. As she settled in for the night, she
+      thought about reaching out to T, but the late hour and T''s offline status made
+      her hesitate, leaving her to bask in the contentment of her small, yet significant,
+      accomplishments.'
+- userid: 126231
+  source: reddit
   task_name: long story
   task_specific:
-    characters: >
-      I am a former high school student attending the reunion, now in their late twenties or thirties. Characters include classmates from high school: some remain recognizable in appearance and demeanor, while others have transformed dramatically through life experiences, careers, and family. Notable figures include "The Class Clown," now a serious professional, and "The Quiet Bookworm," now a confident entrepreneur.
-    background: The user attended a high school reunion, reflecting on the passage of time and the shifts in personal priorities. The event spanned several days, leaving them emotionally and physically drained, though they found value in reconnecting with old classmates.
-    plots: |
-      The moment I stepped into the reunion hall, a wave of nostalgia hit me. The room buzzed with familiar laughter and the scent of cheap wine, but everything felt different. High school had been a blur of cliques and insecurities, but here, in the dim lighting of the banquet hall, people mingled without the weight of hierarchy.<br><br>I spotted Jake first—the guy who'd once been too cool for school, leaning against the bar with a baby on his hip. His leather jacket was replaced by a tailored suit, and his smirk had softened into a tired smile. We exchanged awkward hellos, and he mentioned his wife's name, his voice warm where it used to be sarcastic. Nearby, Sarah, the girl I'd secretly admired, stood with a group of women. She'd traded her braces and oversized sweaters for a confident stride and a necklace spelling "MOM." When our eyes met, she waved, and I felt a pang of how small my teenage crush seemed now.<br><br>The week blurred into a series of forced conversations and half-remembered faces. I caught myself replaying lines in my head: *Do they know I failed calculus? Remember that time I tripped in the hallway?* But no one brought it up. Instead, they talked about mortgages, kids, and the ache of middle management jobs. By Thursday, my throat burned from polite chatter, and my head throbbed from pretending to care about their spreadsheet software preferences.<br><br>On the final night, I lingered by the punch bowl, watching the crowd. A former rival, Lisa, approached me, her sharp tongue dulled by a decade of therapy, she joked. "Remember how we hated each other?" she said, and we both laughed—a sound that felt like forgiveness.<br><br>When it ended, I collapsed into bed, exhaustion mingling with relief. Four days of sleep later, I woke to a quiet apartment, no buzzing phones or name tags. The reunion had been a mirror, showing me how much I'd changed too—how the drama of high school now felt like a silent movie. But the tiredness? That was real. And so was the quiet gratitude for the space to forget, if only for a while, who I used to be.
-    raw_text: Well, it's over! It was good to see so many people. Most haven't changed much, but some have changed a great deal. Funny how things that were important in high school no longer are. Anyway, it is over and I'm glad. I was very, very tired all week and am glad that I had 4 days off to snooze a bit.
-
-
-- userid: 1000866
-  source: Blogauthorship
+    characters: I am a married individual without kids, traveling with my wife and our nieces and nephews. My wife is also a key character in this story, as we are planning this trip together. The nieces and nephews, who are around 10 years old, will be accompanying us on this trip. We will also interact with various authorities, such as customs and border control officers, during our journey.
+    background: I am planning a trip with my wife to a foreign country with our nieces and nephews, who will be around 10 years old at the time of travel. As non-parental guardians, we want to ensure we have all the necessary legal documents and information to make the trip smooth and enjoyable for everyone.
+    plots: As I began planning our trip, I realized that traveling with minors who are not our own children can be quite complex. My wife and I have always wanted to take our nieces and nephews on an adventure, and now that they are old enough to take care of themselves to some extent, we thought it would be the perfect opportunity. However, I soon found myself overwhelmed with questions about the legal requirements for such a trip. I knew that the kids would need passports, but what else would we need to ensure a hassle-free journey? I started searching online, but most of the information I found was related to parents traveling with their own kids or dealing with custody issues, which didn't apply to our situation. I was particularly concerned about what documents we would need to carry, such as notarized letters from the parents or specific forms for customs and border control. I also wondered if there were any specific countries that would be more suitable for traveling with kids. I
+      considered France, Scandinavia, and Japan as potential destinations, but I wasn't sure which one would be the most kid-friendly. As I delved deeper into my research, I became more determined to find the answers to my questions and make this trip a reality. I thought about all the fun we could have exploring new places together, trying new foods, and experiencing different cultures. I imagined the kids' faces lighting up as they tried new things and learned about the world around them. But before we could start making memories, I needed to get the logistics right. I decided to reach out to friends and family members who had traveled with kids before, hoping they could offer some valuable advice and insights. I also planned to contact the embassies of our potential destinations to get more information about their specific requirements for non-parental guardians traveling with minors. With persistence and patience, I was determined to make this trip a success and create lifelong memories
+      for our nieces and nephews.
+- userid: 429005
+  source: reddit
   task_name: long story
   task_specific:
-    characters: >
-      I (Catie), a teenager with a flair for dramatic daydreams and a deep love for solitude. My mom, the negotiator, armed with that guilt-inducing 'momly voice' that turns requests into moral obligations. Little kids at the park, wide-eyed and wary of the 'Frankenstein' big kid on the swings.
-    background: I was enjoying a rare moment of peace, lost in jazz music and the quiet hum of my own thoughts, when my parents interrupted with their ""constructive"" idea for me to clean the bathroom.
-    plots: |
-      The jazz album was hitting its crescendo when the door creaked open. ""Hey, Catie,"" my mom said, leaning against the frame with her hands clasped like she was about to deliver a TED Talk on domestic harmony. ""Go clean.""<br><br>""Yeah, sure,"" I mumbled, not looking up from my notebook. The usual script. But then she came closer, her voice softening into that syrupy tone that made ""please"" sound like a command from God. ""Honey, could you... just clean the bathroom? For me?"" <br><br>The ""for me"" was the dagger. I groaned, flopping onto my bed. ""Fine,"" I sighed, dragging myself downstairs. The bathroom tiles glared back, a mosaic of my hatred. Scrubbing the sink, I muttered to myself, ""Gold digger... gold digger..."" The fantasy unfurled: a mansion, a butler named Reginald, and a husband who'd rather face bankruptcy than let me touch a mop. ""I'll be a witch first,"" I decided, flicking a stubborn stain. ""Love potion /#9, baby."" <br><br>By the time I finished, the sun was dipping low. My mini disc player buzzed in my pocket—a signal to escape. The park was my sanctuary. I swung higher, the wind tangling my hair, and let the world blur. Kids pointed from the slide, their whispers stitching together ""weirdo"" and ""Frankenstein."" I grinned. Let them stare. The swings were mine. <br><br>""Miss, are you a ghost?"" a toddler piped up, clutching his mother's leg. I laughed, the sound echoing like a crow's cackle. ""Nope, just a girl who hates cleaning."" His mom tugged him away, but I didn't mind. The peanut butter sandwiches I'd order later would taste sweeter here, eaten on a bench while the world spun beneath me. <br><br>As dusk painted the sky, I lingered, replaying my gold-digger manifestos. ""No prenup,"" I whispered to the stars. ""Half the assets, baby."" The plan was foolproof—until the little kids started spreading rumors. But hey, at least I'd have a story to tell the divorce lawyer. 
-    raw text: >
-      Yeah, so it's later. My parents found something constructive for me to do...clean. Grrr, why do parents always think of that constructive crap? It's really obnoxious. I'm sitting here enjoyig my time of peace, no homework, and listening to jazz...and all of a sudden, 'Hey catie, go clean.' So, I say what I always say, 'Yeah sure, fine, I'll clean.' (Of course I almost never do this,) except..the problem was, my mom came upstairs, and asked me all nicely and whatnot to clean with that momly voice that makes you feel really guilty. and so I trudge downstairs get the cleaning stuff, and clean the bathroom. Bleh! I can't stand cleaning. I think I should be a gold digger, and marry a rich guy so I can have a cleaning lady, and so I can hire a cook to make me peanut butter sandwiches all the time, and then when I get super duper fat, and this guy wants a divorce, it'll all be good, because I won't have signed a prenuptial agreement. So I'll still get half the assets. Now of course, I'll have to become a witch first in order to make a rich guy, or any guy for that matter marry me. But see...now you all know my plan, so I'll have to come up with a new plan. Oh well. Anyway, I really have nothing to write, but I'm not in the mood to talk to anyone, so I'm just writing. I wish I could go to the park. It's my favorite place in the world. I bring my mini disc thing-a-ma-bobber, and go on the swings, and think and swing at the same time. It really is a fantastic place to go when you need to be alone, and think about stuff...except when the little kids come, and they look at you like you're frankenstein because you're a big kid on a swing...so, they're all afraid to get onto that other swing. It drives them crazy, because I usually stay there for an hour or so. I love little kids. They make me laugh. :) Anyway, I've bored you enough, so I shall write more at some later time.  Ya di amore
+    characters: I am a 24-year-old individual struggling with back pain.
+    background: I am 24 years old and currently experiencing severe back pain, which prevents me from sitting upright for more than 10 minutes. My back is rarely straight unless I force it to be.
+    plots: As I lay on my back on the hard ground, I couldn't help but feel a sharp, stabbing pain that seemed to radiate throughout my entire body. It was as if my back was screaming at me, begging for relief. I tried to sit up, but the pain was too much to bear. I could only manage to sit upright for a mere 10 minutes before I had to lie back down, defeated. My back has never been straight, not really. It's always been a bit crooked, a bit hunched. But lately, it's gotten to the point where I can feel it all the time. I'm tired of feeling like I'm 80 years old, not 24. I want to be able to walk down the street with confidence, with my head held high and my back straight. I want to be able to sit at my desk without feeling like I'm going to collapse. I want to be able to live my life without this constant, nagging pain. I've tried to force my back to be straight before, but it's hard. It's like my body has gotten used to being hunched over, and it's fighting me every step of the way. I've
+      caught myself slouching over my phone, my computer, even when I'm just standing in line. It's like my body has developed a mind of its own, and it's working against me. I know I need to make a change. I need to find a way to fix my back, to strengthen my muscles and improve my posture. I want to be at the point where I can keep my back straight without even noticing it, where it becomes second nature to me. I'm willing to do whatever it takes - exercise, physical therapy, you name it. I just want to be able to live my life without this pain, without this constant reminder that I'm not taking care of my body. I'm ready to take control, to make a change and start living the life I deserve.
+- userid: 511200
+  source: reddit
+  task_name: long story
+  task_specific:
+    characters: I am a saver who has been living at home and trying to build up my savings for the future. My girlfriend and I plan to get our own place soon, and I want to have a stable financial base. I also mention my current bank, TD bank, and the online banks I'm considering, such as Varo and Discover.
+    background: I currently have a checking and savings account with TD bank, but I'm considering switching my savings account to an online bank due to the higher Annual Percentage Yield (APY) rates they offer. I've been researching online savings accounts like Varo or Discover, which have much higher APY rates compared to my current bank, but they don't have any physical locations.
+    plots: I've been happy with the service provided by TD bank, but the APY for my savings account is very low. I've started looking into online savings accounts because I want to earn more interest on my savings. I currently have around $20,000 in my savings account, and I'm eager to grow it as much as possible. With the higher APY rates offered by online banks, I could be making over $300 a year in interest, compared to the $10 a year I'm currently earning. This significant difference in interest has made me consider making the switch. However, I'm also wondering if there are any downsides to banking online rather than at a physical location. I'm thinking about whether it's a good idea to have both my checking and savings accounts with the same institution, or if it's better to have my savings account with an online bank and my checking account with my current bank. I'm weighing the pros and cons, trying to decide what's best for my financial situation and goals. As I think about my future
+      plans with my girlfriend, I want to make sure I'm making the most of my savings and setting ourselves up for financial stability. I'm considering all the factors, including the convenience of online banking, the potential risks, and the benefits of having a physical location to visit if I need to. I'm hoping to make an informed decision that will help me achieve my financial goals and secure a stable future for myself and my girlfriend.
+- userid: 1776772
+  source: reddit
+  task_name: long story
+  task_specific:
+    characters: I am the author, a young man in a relationship with my girlfriend, who is also the mother of my son. Other characters include my mom, my girlfriend's best friend, and my close friend who was affected by my girlfriend's behavior.
+    background: I met my girlfriend at work and we started dating. After six months, she found out I had sexted a coworker before we met, and she broke it off. However, she wanted to get back together, and I agreed despite my friends' advice against it. A month and a half later, she became pregnant, and we decided to keep the baby. She moved in with my family, and our son was born. However, our relationship has been strained due to her behavior, including ignoring my mom, giving her the silent treatment for 10 months, and ruining my relationship with a close friend. Recently, she expressed a desire to get married next year, which has caused me significant distress.
+    plots: I'm at a crossroads, unsure whether I should leave my girlfriend, the mother of my son. The thought of leaving her is daunting, and I'm scared about the potential consequences, especially regarding my relationship with my son. I'm worried that if I leave, I won't be able to see my son every day, and I'm anxious about how my girlfriend will react. I feel trapped and depressed, unable to handle the stress and tension in our relationship. I think about how she has ruined my relationships with my mom and close friend, and how she has been giving my mom the silent treatment for 10 months. I'm also concerned about her desire to get married next year, which feels like a significant commitment that I'm not ready for. I'm torn between my love for my son and my desire to escape the toxic dynamics of our relationship. I feel guilty for even considering leaving, but at the same time, I feel like I need to prioritize my own well-being and happiness. I'm unsure of what the future holds, and
+      the uncertainty is overwhelming me.
+- userid: 1849828
+  source: reddit
+  task_name: long story
+  task_specific:
+    characters: I am a diligent researcher, eager to understand the intricacies of Backdoor Roth IRA, and I am not afraid to ask for help when it comes to significant financial decisions.
+    background: I have been researching Backdoor Roth IRA and Mega Backdoor Roth IRA options, but I am still confused about whether it is the right thing to do, considering the major tax implications. I've come across an article called "17 ways to screw up a Backdoor Roth IRA" which further emphasizes my need for clarity.
+    plots: 'I''ve been reading numerous articles and posts about Backdoor Roth IRA, trying to grasp the concept and its implications. Despite my efforts, I still have questions and concerns that I need help with. I''ve decided to break down the process into steps to better understand it. The first step is to get rid of any money in an existing Traditional IRA, as I''ve learned that if I don''t, part of the conversion would be subject to income tax. My spouse and I both have existing IRAs with significant amounts of money, and I need to move this money elsewhere to avoid taxes. I''m considering rolling the IRA into an employer''s 401(k) plan, but I''m unsure if I''ll have to pay taxes on the rollover. I''m also concerned about the potential downsides, such as limited investment options or higher costs. I''ve identified the subsequent steps: opening a new traditional IRA, making a $6k contribution, converting it to a Roth IRA the next day, and repeating the process for my spouse. However,
+      I still have questions about the tax implications of these transactions and whether there are any situations where this might not be a good idea. I''m looking for guidance to ensure I''m making the right decision, and I appreciate any help I can get in navigating this complex process. As I delve deeper into the process, I''m filled with thoughts of uncertainty and caution, knowing that one misstep could have significant consequences. I''m determined to get it right, and I''m willing to take my time to understand the intricacies of Backdoor Roth IRA. I think to myself, "I''d like to think I am a smart person, but I am also not afraid to ask for help on things that have major tax implications." With this mindset, I''ll continue to research and seek guidance until I''m confident in my decision.'
+- userid: 124382
+  source: reddit
+  task_name: long story
+  task_specific:
+    characters: I, the author
+    background: I stopped lifting after playing football and rugby in college and my weight has changed from 210 to 205 with less muscle tone. I'm considering whether to cut or gain first, with the goal of reaching 200 pounds with low body fat percentage.
+    plots: 'As I look back at my past, I remember being a lean 210 pounds when I was actively playing football and rugby. However, after stopping lifting altogether in my last couple years of college, I''ve noticed a significant change in my physique. I''m now 205 pounds, but with very little muscle tone, which is quite discouraging. I''ve always been fortunate enough to put on lean muscle when I''m gaining weight, but the problem arises when I try to cut down on fat - I end up losing a substantial amount of muscle mass as well. This dilemma has led me to ponder over what I should do first: cut down or bulk up. My ideal goal is to reach 200 pounds with a low body fat percentage, but I''m unsure about the best approach to achieve this. I''m torn between focusing on losing the extra fat first or trying to build more muscle and then cutting down. I know that if I gain muscle, I''ll be able to burn more calories at rest, which could help with fat loss in the long run. On the other hand, if I
+      cut down first, I risk losing muscle mass, which would be counterproductive to my goal. I wish I could find a way to lose fat without sacrificing my hard-earned muscle, but it seems like a difficult balance to strike. I''m hoping to find some guidance on how to navigate this situation and make the best decision for my fitness goals.'
+- userid: 416248
+  source: reddit
+  task_name: long story
+  task_specific:
+    characters: I, the swim team
+    background: I'm considering joining my local swimming team because I love swimming, which is an Olympic-certified sport. I learned to swim at the age of 9, which is relatively late. I can swim, but I have heart problems and trouble breathing and maintaining my stance while swimming. My body has difficulty staying upright and straight for long periods, causing my legs to sink.
+    plots: As I think about joining the swim team, I reflect on my current swimming abilities and the challenges I face. I realize that I didn't learn to swim until I was 9, which is weirdly late, and this might have contributed to my struggles with technique. I can swim alright, but I know I'm not as proficient as I could be, especially when compared to others who might have started swimming at a younger age. My heart problems and breathing difficulties make it hard for me to maintain my stance and keep my body upright and straight while swimming. It's frustrating to feel like I'm not in control of my body in the water, and I often end up with my legs sinking, making me look like a dog trying to swim. Despite these challenges, I believe that joining the swim team would be an excellent experience, not just for improving my swimming skills, but also for gaining valuable experience that I can highlight when applying to colleges. I think about how this experience could help me stand out and
+      demonstrate my commitment to overcoming obstacles, and this motivates me to push through my difficulties and pursue my goal of becoming a better swimmer.
+- userid: 1619711
+  source: reddit
+  task_name: long story
+  task_specific:
+    characters: I am a dedicated employee at a car business, and the other characters include my current employer and the owner of the company who is currently out of town.
+    background: I currently work for a small car business with a salary of $2400 a month, no benefits, and a 6-day work week. I was recently offered another job with better pay, benefits, and working conditions.
+    plots: I still remember the day I received the job offer from another company like it was yesterday. The new job was offering me a salary of $2600 a month, a 5-day work week, and the opportunity for overtime pay. On top of that, I would be eligible for medical benefits after 90 days, bonuses, holiday bonuses, paid time off, and a 401k plan after a year. The prospect of having a better work-life balance and financial security was enticing, to say the least. As soon as I put in my two weeks' notice at my current job, my employer's attitude changed dramatically. They seemed panicked at the thought of losing me, and I was met with a chorus of "Oh no! Good workers are hard to find, we can't lose you!" The owner, who was out of town on business at the time, was set to return the next day to discuss what they could offer me to stay. I was torn between my loyalty to my current employer, whom I genuinely enjoyed working for, and the promise of a brighter future that the new job offered. As I
+      weighed my options, I couldn't help but think about what I wanted for my future. I knew that I deserved better working conditions, benefits, and pay, but at the same time, I didn't want to give up on the relationships I had built with my current colleagues and employer. The owner's return and our impending discussion had me wondering what they would be willing to offer to keep me on board. Would it be a raise, additional time off, or perhaps some benefits that they had previously been unable to provide? I was determined to negotiate the best possible deal for myself, but I was also aware that there was a limit to what I was willing to accept. The question was, what was that limit, and was I willing to walk away if my demands weren't met? As I pondered these questions, I couldn't help but feel a sense of uncertainty and excitement about what the future held.
+- userid: 102565
+  source: reddit
+  task_name: long story
+  task_specific:
+    characters: I am a single mom with limited experience in carpentry, having only done gross framing in the past.
+    background: I am planning to build new bookshelves with doors, which will include a lower section of closed cabinets and window seats with drawers, and glass-fronted bookshelves on top. As a single mom on a budget, I am looking for affordable tools and tips to help me complete this project, which is my first foray into cabinetry.
+    plots: As I stand in my living room, surrounded by stacks of books and clutter, I feel a sense of excitement and nervousness about my new project. I've always wanted to have built-in bookshelves with glass fronts, and now that I've finally decided to take the plunge, I'm not sure where to start. I've done some research and have a rough plan in mind, but I know that I'll need to invest in some new tools if I want to do the job right. The problem is, as a single mom, I'm on a tight budget, so I'll need to be careful about what I spend my money on. I start by making a list of the tools I think I'll need, from a table saw to a drill press, and then I begin to research more affordable options. I spend hours scouring online forums and watching YouTube tutorials, trying to learn as much as I can about cabinetry and what it takes to build beautiful, functional bookshelves. As I delve deeper into the world of woodworking, I start to feel a sense of pride and accomplishment, knowing that I'm taking
+      on a challenge that will not only improve my home but also teach me a new skill. I think about all the times I've struggled to find a place to put my books, and how nice it will be to have a dedicated space for them. I imagine the look on my kids' faces when they see the finished product, and how proud they'll be of me for taking on this project. With a sense of determination, I start to make a plan, breaking down the project into smaller, manageable tasks, and setting a budget for each one. I know it won't be easy, but I'm ready to learn and take on the challenge, one step at a time.
+- userid: 525627
+  source: reddit
+  task_name: long story
+  task_specific:
+    characters: I am a concerned employee advocating for improved 401K funds at my company. The wealth management advisor from Merrill Lynch, whose title I believe is a wealth management advisor, will be meeting with me to discuss potential changes to our company's 401K offerings.
+    background: I am an employee at a company where I believe the 401K funds offered are not satisfactory. I have taken the initiative to campaign for better options and have scheduled a meeting with a wealth management advisor from Merrill Lynch to discuss this matter.
+    plots: As I prepare for my meeting with the wealth management advisor, I find myself pondering the best approach to convey my concerns about our current 401K funds. I have taken the time to review the list of funds we are currently offered, which includes a range of income, growth and income, growth, and aggressive growth options. The income funds include options such as the Ready Assets Prime Money Fund, Thornburg Limited Term Income Fund, and JP Morgan Government Bond Fund, with returns ranging from 0.69% to 1.56%. The growth and income funds, which include several JP Morgan Smart Retirement funds, have returns ranging from 1.09% to 1.57%. Our growth funds, including the BlackRock Equity Dividend Fund and Thornburg Core Growth Fund, have returns between 1.32% and 1.80%. Lastly, the aggressive growth funds, such as the Delaware Small Cap Value Fund and BlackRock Small Cap Growth Fund, have returns ranging from 1.45% to 1.92%. I am determined to make a strong case for why these funds
+      are not meeting the needs of my fellow employees and me. I plan to ask the advisor questions about the possibility of offering more competitive and diverse fund options, and how we can work together to create a better 401K plan for our company. I am hoping that by presenting my concerns and doing my research, I can effectively communicate the need for change and ultimately lead to an improvement in our 401K offerings. I am looking forward to the meeting and am optimistic that, together, we can create a more satisfactory retirement plan for everyone involved.
+- userid: 60119
+  source: twitter
+  task_name: long story
+  task_specific:
+    characters: I, the unions, people of color, women
+    background: I've been observing the situation with unions and trades, and there are claims that discrimination is not present, but I've noticed certain behaviors and practices that suggest otherwise, such as the way people of color, women, and other groups are treated in the workplace or assigned to job sites.
+    plots: I think about the unions' claims that discrimination is not a problem in the trades, but my observations lead me to believe that it still persists in subtle ways. It's not always overt, but I've seen how certain groups of people are treated differently on a day-to-day basis in the workplace. It's disturbing to think that some people may be excluded from certain job sites or opportunities simply because of their race, gender, or other characteristics. I wonder if this is a result of unconscious biases or if it's a more deliberate attempt to keep certain groups out. The fact that the unions deny any wrongdoing makes me question their commitment to creating a fair and inclusive work environment. As I reflect on this, I realize that discrimination can take many forms, and it's not just about explicit exclusion, but also about the subtle ways in which certain groups are marginalized or excluded from opportunities. I hope that by acknowledging these issues, we can start to address them
+      and create a more equitable workplace for everyone.
+- userid: 686
+  source: twitter
+  task_name: long story
+  task_specific:
+    characters: I am a concerned citizen of Nanaimo, and the other key characters in this story include the city engineers at Nanaimo Engineering, who are responsible for implementing the transportation plan.
+    background: 'The City of Nanaimo has adopted a master transportation plan that prioritizes the development and modification of streets based on a specific formula: Pedestrians, Cyclists, Transit, Commercial, and finally Personal vehicles. This plan aims to create a more sustainable and equitable transportation system.'
+    plots: As I walk through the streets of Nanaimo, I often think about the city's vision for a more sustainable and people-friendly transportation system. The master plan, which prioritizes pedestrians, cyclists, and public transit, seems like a step in the right direction. However, my daily experiences and observations suggest that the reality on the ground is far from this ideal. I've noticed that the city's engineering department, Nanaimo Engineering, seems to be working in the opposite direction of the city's stated vision. It's frustrating to see that personal vehicles are still being prioritized over more sustainable modes of transportation. I recall attending a city council meeting where the transportation plan was discussed, and the engineers presented their proposals for new street developments. While they paid lip service to the city's priorities, their actual designs and plans seemed to favor the interests of drivers over those of pedestrians, cyclists, and transit users. I
+      remember one particular instance where a cyclist was injured on a street that lacked proper bike lanes, and it struck me that this accident could have been avoided if the city's engineering department had followed the master plan. The disconnect between the city's vision and the reality on the ground is not only disappointing but also dangerous. As I continue to navigate the streets of Nanaimo, I hope that the city will take concrete steps to align its engineering practices with its stated priorities and create a safer, more sustainable transportation system for all users.
+- userid: 7218
+  source: twitter
+  task_name: long story
+  task_specific:
+    characters: I, the podcast listener
+    background: I've been listening to some podcasts on a particular network and noticed the types of content they offer.
+    plots: I've been thinking a lot about the podcast network I enjoy, and one thing that stands out to me is the lack of content related to religion and politics. It seems like a significant gap in their offerings, and I think it's an area they could explore to attract a new audience. If they're looking to grow and expand their listener base, investing in this type of content could be a sound decision. I imagine it could help them tap into a new demographic and provide a more well-rounded listening experience for their fans. By filling this gap, they may be able to attract listeners who are interested in more nuanced and thought-provoking discussions. I think this could be a strategic move for the network, and it's something I'd like to see them consider in the future.
+- userid: 2996
+  source: twitter
+  task_name: long story
+  task_specific:
+    characters: I am a concerned citizen, and there are also politicians and activists who are part of the CalltoActivism movement.
+    background: I was reflecting on the current state of politics and the role of religion in government, particularly in relation to the Constitutional demand for a separation of church and state.
+    plots: 'I still remember the day I read about the CalltoActivism movement and their efforts to allow prayer in chambers and hold prayer breakfasts funded by taxpayers. At first, I thought it was a minor issue, but as I delved deeper, I realized the implications were far-reaching. I thought to myself, "How can this be? Isn''t the separation of church and state a fundamental principle of our Constitution?" I felt a surge of frustration and disappointment, thinking about how this could erode the very foundations of our democracy. I wondered what the founding fathers would think if they knew that their careful crafting of the Constitution was being chipped away at. I imagined them saying, "This is not how you defend the Constitution. You have to defend all of it, not just the parts that suit your interests." As I continued to read about the issue, I came across stories of people from different faiths and backgrounds who were concerned about the blurring of lines between church and state.
+      One person''s words stuck with me: "If we allow this to happen, what''s to stop the government from imposing its religious beliefs on us?" I couldn''t shake off the feeling that we were heading down a slippery slope. I thought about all the times I had taken my freedoms for granted, assuming that the Constitution would always protect me. But now, I realized that it was up to us, the citizens, to defend it. I felt a sense of responsibility wash over me, and I knew I had to do my part in speaking out against this erosion of our rights. I decided to join a local activist group, determined to make my voice heard and to fight for the principles that our country was founded upon. As I looked around at my fellow activists, I saw a diverse group of people united by a common cause. There was Sarah, a young Muslim woman who was passionate about social justice; Jack, a retired teacher who had seen the impact of religious intolerance firsthand; and Rachel, a lawyer who had dedicated her career
+      to defending civil rights. Together, we shared our stories, our fears, and our hopes. We discussed the importance of separation of church and state, and how it was essential to protecting the rights of all citizens, regardless of their faith or background. As we talked, I realized that this was not just about politics; it was about the kind of society we wanted to live in. Did we want to live in a country where the government imposed its religious beliefs on us, or did we want to live in a country where everyone was free to practice their faith, or no faith, without fear of persecution? The answer was clear to me, and I knew that I would continue to fight for the principles of our Constitution, no matter what.'
+- userid: 89347
+  source: twitter
+  task_name: long story
+  task_specific:
+    characters: I, the person I was conversing with, Bill Hicks
+    background: I was engaged in a conversation where someone expressed their opinion, and I found their points to be intellectually sound. However, this conversation reminded me of past events where the religious right censored comedy, music, and art that they did not approve of, such as Bill Hicks' final appearance on Letterman.
+    plots: I have to admit, what the other person said made sense from an intellectual standpoint, but it's hard for me to shake off the feeling that this is a case of history repeating itself. I remember when the religious right would actively work to censor any form of comedy, music, or art that they deemed inappropriate or offensive. The memory of Bill Hicks' final appearance on Letterman is still vivid in my mind, and it serves as a reminder of the dangers of censorship and the importance of free speech. As I reflect on this, I am torn between acknowledging the validity of the other person's points and my own concerns about where this kind of censorship can lead. It's a delicate balance between respecting differing opinions and standing up for the principles of free expression. I find myself wondering if we're losing sight of the importance of open dialogue and the exchange of ideas, and if we're instead moving towards a culture where certain viewpoints are suppressed. This internal
+      conflict is making me question my own stance on the issue and encouraging me to think more critically about the implications of censorship.
+- userid: 27385
+  source: twitter
+  task_name: long story
+  task_specific:
+    characters: I, users
+    background: I was thinking about how people can express their high-level requirements and desires, and I considered various platforms such as Twitter, answers on ML, discussions at conferences, Slack, and Telegram groups.
+    plots: I have been pondering the best ways for people to share their high-level needs and wants, and it seems to me that certain platforms are more suited for this purpose than others. I think about how Twitter, with its character limit, can actually be a great way to concisely express these high-level ideas. I also consider how answers on ML, discussions at conferences, Slack, and Telegram groups can provide a space for more in-depth conversations and connections. My hope is that by utilizing these platforms, we can create a more open and accessible environment where users can reach us and share their thoughts. I worry about the "ivory tower" effect, where we become disconnected from the people we are trying to help, and I believe that by leveraging these tools, we can avoid this and foster a more collaborative and inclusive community. I imagine that if we can make ourselves more available and receptive to user feedback, we can gain a deeper understanding of their needs and desires,
+      and ultimately create better solutions. I think that this is especially important in our line of work, where staying connected to the people we serve is crucial for success. By being more approachable and open to communication, I hope that we can build trust and establish a stronger relationship with our users, and that this will have a positive impact on our work.
+- userid: 67564
+  source: twitter
+  task_name: long story
+  task_specific:
+    characters: I am a person who has been hurt in a past relationship and is having trouble letting go. The other character is my ex, who has moved on with his life and is doing his own thing, seemingly unaffected by my presence or opinions.
+    background: I had been struggling to move on from a past relationship, and I found myself constantly checking up on my ex's life, monitoring his every move on social media and through mutual friends.
+    plots: I remember the days when I would spend hours scrolling through his social media profiles, analyzing every post, every picture, and every comment. I would try to decipher the meaning behind each update, wondering if he was thinking of me, if he was happy, or if he was still hurting from our breakup. It was an obsession, really. I would find myself comparing my life to his, feeling like I was stuck in a rut while he was moving forward. I would get angry when I saw him post about his new relationships or his accomplishments, feeling like he was rubbing it in my face. But deep down, I knew I was the one who was stuck. I was the one who couldn't move on. I would try to convince myself that I was just curious, that I was just checking in to see how he was doing, but the truth was, I was stalking him. I was invested in his life, and it was unhealthy. One day, it hit me - I was wasting my time. I was wasting my energy on someone who had clearly moved on. I realized that my actions were
+      not only creepy but also toxic. I was holding onto the past, and it was preventing me from living in the present. I took a step back and assessed my behavior, and I didn't like what I saw. I knew I needed to make a change. I started by taking a break from social media, by unfollowing him and limiting my access to his life. It was hard at first, but with time, I started to heal. I started to focus on myself, on my own happiness, and on my own growth. I learned to let go of the past and to look towards the future. And as I did, I realized that my ex's life was not mine to control or to obsess over. He got to do what he wanted, and I got to do what I wanted. We were two separate people, living two separate lives, and it was time for me to start living mine.
+- userid: 19084
+  source: twitter
+  task_name: long story
+  task_specific:
+    characters: I am a remote worker who has grown accustomed to a isolated daily routine.
+    background: I've been working from home for years and have barely left my house since March, which has distorted my sense of time and schedule.
+    plots: I still remember the days when I had to commute to an office, and my daily routine was dictated by the clock and the calendar. But that all changed when I started working from home. At first, it was a bit disorienting not having to wake up early to catch a bus or train, but I quickly grew to love the flexibility and freedom that came with it. As time went on, I found myself losing track of what day of the week it was. Was it Monday or Wednesday? Did it really matter? I'd often joke with friends and family that I was living in my own little bubble, where the only thing that mattered was meeting deadlines and delivering results. But as the months went by, my bubble started to feel more and more isolated. I barely left my house, and when I did, it was only for essential errands or to grab a quick bite to eat. The world outside started to feel like a distant memory, and I began to lose touch with the rhythms of everyday life. And then, to make matters worse, daylight savings time
+      kicked in. I'd set my clocks back, or was it forward? I could never keep it straight. Suddenly, my already distorted sense of time was turned upside down. I'd look at my watch and wonder if it was really 10 am or 11 am. It was as if the whole world had conspired against me to make me feel like I was living in a time warp. I'd try to adjust my routine, but it seemed like no matter what I did, I was always out of sync. I'd wake up feeling groggy and disoriented, wondering what day it was and what time I was supposed to be doing what. It was frustrating and exhausting, and I couldn't help but wonder, where does it end? Will I ever be able to get my sense of time and schedule back on track, or am I doomed to live in this state of perpetual confusion?
+- userid: 69548
+  source: twitter
+  task_name: long story
+  task_specific:
+    characters: I am a person of faith, seeking to live a life that reflects God's glory and greatness. I am the main character in my own journey of self-discovery and spiritual expansion.
+    background: I am in a place of spiritual reflection, focusing on my personal growth and connection with God. I am acknowledging the potential that lies within me and my desire to fulfill it.
+    plots: As I stand in front of the mirror, I declare to myself that God's seed of greatness is in me. I feel a surge of confidence and determination, knowing that I am capable of achieving more than I ever thought possible. I am graced to grow exponentially, and I can feel the energy of expansion and progress coursing through my veins. I refuse to settle for a small, mundane life, and instead, I am breaking out of the limiting spots that have held me back for so long. I am moving into wide-open spaces, where I can reveal God's glory and shine my light for all to see. I show up to every situation, every conversation, and every moment with the intention of shining the light of God. I am spectacular and radiant, not because of anything I have done, but because of the greatness that lies within me. I feel like I am unstoppable, like nothing can hold me back from achieving my dreams and living the life I was meant to live. I am a beacon of hope and inspiration, and I know that my presence
+      can make a difference in the world. With every step, I take, I feel like I am growing, expanding, and becoming more of who I was created to be. I am a work in progress, but I am excited for the journey, and I know that God is guiding me every step of the way.
+- userid: 111009
+  source: twitter
+  task_name: long story
+  task_specific:
+    characters: I am a concerned citizen and supporter of the Quayside development project, likely someone who is invested in the future of Toronto's neighborhoods.
+    background: The city of Toronto is undergoing development efforts, specifically focusing on the Quayside area, with the goal of creating a more liveable, affordable, and sustainable neighborhood. Waterfront Toronto has been working towards this goal and has recently selected a partner for the Quayside project.
+    plots: As I sat down to read the news today, I couldn't help but feel a sense of excitement and hope. The announcement that Waterfront Toronto has selected a Quayside partner is a significant step forward in our city's efforts to build back better. I've been following the developments in the Quayside area for some time now, and I have to say that I'm thrilled to see things moving in a positive direction. The idea of creating a neighborhood that's truly liveable, affordable, and sustainable is something that resonates deeply with me. I imagine a place where people can thrive, where they can live, work, and play without breaking the bank or harming the environment. I think about the potential for green spaces, for community centers, for local businesses and initiatives that can bring people together. The more I think about it, the more I feel a sense of pride and ownership in this project. I know that I'm not alone in this vision, and that there are many others who share my passion for
+      creating a better future for our city. As I look to the future, I'm eager to see how this project will unfold, and how it will impact the lives of those who call Toronto home. I'm excited to see the positive changes that this partnership will bring, and I'm confident that together, we can build a neighborhood that's truly worthy of our great city.
+- userid: 798653
+  source: blogauthorship
+  task_name: long story
+  task_specific:
+    characters: I am the one who went on the tour, Pam and Athena are friends I met up with along the way, and there were many other friends from Michigan who I partied with at the Polaris show. There was also a security guard who noticed my fake backstage pass.
+    background: I was following Trey Anastasio on his summer tour, driving to and from shows by myself, but meeting up with friends along the way. I went to Chicago, picked up Pam, drove to Milwaukee, picked up Athena, then we went to the Alpine Valley show. Next stop was Indianapolis, where I attended the Deer Creek show and bumped into tons of people I knew on the lawn. I also went to Ohio, making friends at a rest stop and spending the night with them, before attending the Polaris show. I made my own backstage passes, which were convincing enough to fool most security guards, but not one who must have been on the design crew.
+    plots: As I look back on my experience following Trey Anastasio on his summer tour, I have to admit that it wasn't as enjoyable as I had hoped. I had been looking forward to it for months, but somehow it didn't live up to my expectations. I think part of the problem was that I didn't start the tour earlier, maybe catching a show on the east coast or something. The midwest shows started to feel a bit boring after a while. Despite having a lot of fun along the way, meeting new people and reconnecting with old friends, something was missing. I keep thinking that maybe if Page, Mike, and Fishman were there, it would have been more exciting. I also think about how I should have made more than one backstage pass for myself, since the one I made was convincing enough to fool most people. But overall, I'm left with a sense of disappointment, feeling like the tour didn't quite meet my expectations. I wonder if I just got tired of being on the road, or if it was something more. I had some great
+      moments, like swimming with my new friends at a lake and partying with my friends from Michigan, but they weren't enough to make the whole experience feel fulfilling.
+- userid: 3427664
+  source: blogauthorship
+  task_name: long story
+  task_specific:
+    characters: I am a reflective individual struggling to find meaning in life's contradictions. The man in the news, unnamed, is a figure of tragic confusion, driven by impulses I cannot fathom. The war victims are faceless casualties, their stories swallowed by the machinery of conflict.
+    background: I read two articles that left me grappling with the absurdity of human existence. The first detailed the cyclical violence of war, where innocent lives are caught in the crossfire, and the second reported a bizarre news story about a man who took his own life after engaging in bestiality with a hen. Both events, though vastly different, forced me to confront the randomness and irrationality of human actions.
+    plots: '<p>I sat at my kitchen table, the morning light streaming through the blinds, as I scrolled through my news app. The first headline read, "War in Eastern Region Claims Dozens of Civilians." I traced the words with my finger, feeling the familiar weight of helplessness. "Bombs and bullets don’t discriminate," I muttered, recalling how my uncle had once told me that same phrase after losing his best friend to a stray bullet in a conflict zone. My coffee grew cold as I read testimonies of mothers mourning children, fathers buried under rubble. The cycle was endless—bloodshed begets bloodshed, and we call it progress.</p>       <p>Then, the second headline appeared: "Man Commits Suicide After Sex with Hen." I froze. The absurdity of it clawed at my rationality. How does a life unravel so completely? I imagined him—some lonely soul in a dimly lit room, clutching a bird, seeking connection in the most twisted way. "How do you look at the bird and think, ''I have to have it...''" I
+      whispered, my voice cracking. The image haunted me: the hen’s wide, unblinking eyes, the man’s desperation, the irreversible plunge into despair. Was it loneliness? Mental illness? Or just the universe’s cruel joke?</p>       <p>I slumped back in my chair, staring at the ceiling. Both stories circled the same void—the human capacity for destruction, whether collective or personal. War and bestiality: one a scream of ideology, the other a whisper of despair. "Do we ever grow up?" I asked the empty room. The silence answered. I thought of my own fragility, the nights I’d lain awake wondering if my life had purpose. The man’s suicide and the war’s carnage were echoes of the same question: Why are we here? And if we don’t know, how do we stop the bleeding?</p>       <p>Outside, a car alarm wailed. I jumped, then laughed bitterly. Even the mundane was chaotic. I closed my laptop, the articles’ shadows clinging to me. There’s a reason I’m alive—I just don’t know what it is. But maybe the
+      reason isn’t a grand revelation. Maybe it’s in the trying: to understand, to connect, to not become another headline in someone else’s confusion.</p>'
+- userid: 1068893
+  source: blogauthorship
+  task_name: long story
+  task_specific:
+    characters: I am a cautious yet impatient buyer, torn between practicality and eagerness. The seller, a distant stranger communicating via email, remains a faceless figure in this transaction.
+    background: 'I recently purchased a used notchback car and chose to have it shipped to my location instead of driving cross-country to pick it up in person. The decision came after weighing the costs: shipping would cost an extra $500 compared to the estimated $380–$400 in gas for the drive. Though the added expense stung, I prioritized avoiding potential risks of a long-distance road trip with an unfamiliar vehicle. Now, I await its arrival,延 lengthening the wait by up to two weeks—pushing my hoped-for pickup date from this Saturday to an uncertain future.'
+    plots: 'The moment I clicked "Confirm Payment," a mix of triumph and dread washed over me. I’d spent hours poring over forums, calculating gas prices, and imagining worst-case scenarios: a flat tire in Nebraska, engine trouble in Kansas. The math was clear—$500 extra for peace of mind. But as I hung up the phone after finalizing shipping, the reality hit: two more weeks without the car.   I replayed the debate in my head. *What if the shipping company delays it? What if the car gets damaged in transit?* My fingers hovered over the seller’s contact button, itching to demand updates. Instead, I opened the tracking page again—still blank.   That night, I lay awake, tracing the route on my phone. If I’d driven, I’d have passed the Rockies by now, maybe even spotted elk near the highways. I’d imagined singing off-key to old rock ballads, the car’s unfamiliar engine humming in rhythm. Now, those plans dissolved into a countdown of days until delivery.   Every morning since, I’ve checked the
+      tracking number three times: 7 AM, noon, bedtime. The seller’s last email—“It’s on a flatbed in Ohio”—did little to soothe me. Ohio? That’s still 1,200 miles away. I pictured the car swaying on the truck, bumper scuffed by a guardrail, keys lost in a warehouse.   Yet, there are moments of calm. When I think of avoiding a 24-hour drive with a car that might backfire or overheat, I almost forgive the wait. Almost. Today, I texted my brother: “Remember that road trip we took in high school? The one where the radiator blew in Iowa?” He replied, “Yeah. You cried.” I laughed, then groaned. Some things never change.   The wait stretches on. Each day, I find new reasons to justify my choice, but my calendar is marked with a red X for the original pickup date—a ghost of a plan that now haunts me. The car is coming, I remind myself. It’s just a matter of time. But time, lately, feels like the enemy.'
+- userid: 3416392
+  source: blogauthorship
+  task_name: long story
+  task_specific:
+    characters: I, the local charter boat captain, the reporter
+    background: I was reading an article about fishing in the Sports Section of our local newspaper, The Herald, where a local charter boat captain mentioned "weedlines" as an indication of dolphins being near, referring to large floating patches of sargassum. I had never seen the word before, but I knew exactly what the captain was talking about, having seen these peculiar floating carpets of gulfweed in Biscayne Bay. I then searched for the word in my collection of dictionaries, including the Webster's 10th Colligate, the massive Webster's, the two-volume Shorter Oxford English Dictionary, and the Compact Edition Of The Oxford English Dictionary.
+    plots: As I delved into the world of words, I found myself appreciating the complexity and intricacies of the English Language, and I have to admit that I was surprised to stumble upon a word that appears nowhere in my trusted dictionaries. The word "weedlines" sparked my curiosity, and I was determined to find its meaning. I thought to myself, how could a word that is so specific and relevant to a particular context, such as fishing, be absent from these comprehensive dictionaries? I felt a sense of excitement and amazement at the discovery, and at the same time, I was reminded that language is a constantly changing entity. I thought about the fact that language is not static, and that new words and meanings can emerge over time. I also thought about the limitations of dictionaries, and how they may not always be able to keep up with the evolving nature of language. As I reflected on my experience, I realized that it's not just about the words themselves, but about the context and the
+      culture in which they are used. I thought about how the word "weedlines" is likely to be familiar to those who are involved in fishing, particularly in the Florida area, and how it may be a term that is passed down through oral tradition. I also thought about the importance of being open to new words and meanings, and being willing to learn and adapt to the changing landscape of language.
+- userid: 3338865
+  source: blogauthorship
+  task_name: long story
+  task_specific:
+    characters: I, my ex
+    background: I was doing a spring cleaning on my email account when I stumbled upon old emails that I had saved in a special folder, including emails from my ex. I opened one of the emails from when we were still in love and read through the sweet-talks and affectionate name-calling. This led me to reflect on where things went wrong in the relationship and the nature of love and trust.
+    plots: As I read through the old emails, I couldn't help but wonder where things went wrong. I realized that nothing is certain in love, and that's where trust comes in. Everyone has the capacity to love, whether it's romantic love or love for family, friends, or pets. I thought about how love can change a person, even if it's just temporary, and how we adapt to those changes. I questioned whether people truly change or if they're just rediscovering feelings that were already there. I reflected on the different types of love, including parental love and romantic love, and how they differ in depth and feeling. Ultimately, I concluded that love is a natural part of being human, and it's always present, even if we don't always recognize it. I thought about how love can be transformative, but also how it can lead to hurt and pain. I considered the idea that love is not just a feeling, but a choice, and that it requires trust and commitment. As I looked back on my past relationship, I realized
+      that love is a complex and multifaceted emotion that can bring great joy and great pain. I wondered if, in the future, I would look back on this blog post and remember the feelings I had when I wrote it, and if I would still believe in the power of love to change and transform us.
+- userid: 4108806
+  source: blogauthorship
+  task_name: long story
+  task_specific:
+    characters: 'I am a 15-year-old high school sophomore with a fiery temper and a rebellious streak, often clashing with authority. The seniors: a group of upperclassmen who mock me relentlessly, their laughter sharp as broken glass. Sr. Judith: a strict nun and teacher, her habit immaculate, her voice a blade wrapped in piety.'
+    background: I am a high school student navigating the pressures of adolescence in a strict Catholic girls' school. The story unfolds over a single chaotic day marked by relentless teasing from upperclassmen and an unexpected confrontation with Sr. Judith, a no-nonsense nun who enforces the school's dress code. The setting is a cramped, fluorescent-lit hallway between classes, where the taunts echo, and a dimly lit classroom where Sr. Judith's icy glare makes the air feel colder.
+    plots: The insults began at dawn. "Hey, Fish! Did you smell the brine this morning?" They lingered outside my first-period classroom, their laughter a chorus of venom. I clenched my fists, jaw tight, as the tallest senior—her hair dyed the color of rust—leaned into my face. "Still wearing that ugly sweater, huh? Mom pick it out when you were ten?" I wanted to scream, to claw at their perfect uniforms, their sneers. But I just walked past, shoulders squared, and slammed the classroom door behind me.        By lunch, the "Fish" nickname had spread like mold. Notes slid onto my desk, Post-its doodled with cartoon fish gasping on dry land. I crumpled them, my stomach churning. The teachers pretended not to notice. "Focus on your studies," they’d say, as if my humiliation was a minor distraction.        The real storm hit at dismissal. Sr. Judith cornered me in the empty hallway, her shadow stretching long across the tiles. "Your skirt," she said, her voice colder than the January wind seeping
+      through the cracks. "Three fingers above the knee. The rule is five." My throat tightened. I’d measured it that morning, certain it was long enough. "I can’t believe you’d disregard modesty so casually," she continued, her rosary clicking like a metronome counting down my shame.        "It’s not three inches," I whispered, voice cracking. "Check again." Her hand shot out, bony fingers pinning the fabric. "Two and a half," she declared, her breath smelling of peppermint gum. "Detention. And tell your mother to mend her sewing."        I fled to the bathroom, locked myself in a stall, and sobbed silently. The fluorescent light buzzed like the seniors’ laughter. When I finally left, the bell had already rung, and the halls were empty. My backpack felt heavier with homework, a cruel irony. But the real weight was the certainty that no one here cared. Not the teachers, not the seniors, not even the God Sr. Judith invoked so freely.        That night, I stared at my reflection, the skirt
+      bunched in my hands. Maybe tomorrow I’d wear something longer. Or maybe I’d let them call me Fish until I could bite back.
+- userid: 998237
+  source: blogauthorship
+  task_name: long story
+  task_specific:
+    characters: I am a high school student who often wears trendy outfits and navigates social dynamics with a mix of confidence and self-deprecation. Teddie is a classmate known for teasing and playful comments. "Hott" is another student, likely named for their perceived attractiveness, who joins in the teasing.
+    background: A high school student navigates a mundane yet socially charged day, dealing with classmates' flirtatious comments in biology class, anxiety over a Spanish test, and the decision to quit softball. The story unfolds against the backdrop of typical teenage dynamics, self-consciousness, and fleeting moments of humor.
+    plots: The bell rang, signaling the start of biology class. I slumped into my seat, my short jean skirt rustling as I shifted to avoid eye contact with the back row. Teddie, the class clown, had been at it again. “Damn, your butt looks fire today,” he slurred, loud enough for half the class to snicker. I groaned internally, my cheeks burning. Before I could retort, the boy behind me—everyone called him “Hott” for reasons I’d never understand—twisted around in his chair. “Yeah, you’re seriously hot,” he said, grinning like this was groundbreaking news.        “Shut up,” I snapped, kicking Teddie’s chair. He yelped, but the damage was done. The class erupted in fake gasps. “Teddie and Hott are never used in the same sentence,” I shot back, my voice dripping with sarcasm. The room dissolved into laughter, and even Hott’s smirk faltered. “We’re not joking,” he insisted, but I just rolled my eyes. “Ah booo,” I drawled, mimicking his tone. “This is soo funny.” The tension dissolved, but my
+      stomach still churned.        Later, Spanish class felt like a punishment. The test loomed, and I’d barely studied. I flipped through my notes, scribbling last-minute conjugations. When the paper landed on my desk, my hands shook. *Holy shit, I failed it*, I thought, staring at the blank questions. *Unless I get lucky and pull a C*. The teacher collected the tests with a nod. “Find out tomorrow,” I muttered, forcing a hehe.        After school, I flopped onto my bed in my cute outfit—a black shirt over a pink one, paired with the skirt. The fabric was soft against my skin, a small comfort. I clicked on the TV, half-listening to some sitcom. Softball practice was in an hour. *I just don’t feel like doing it anymore*, I realized, staring at the ceiling. The thought had been simmering all day, but now it felt final.        “Im NOT doing softball anymore,” I texted my coach, typing it in caps for emphasis. The relief was instant. But then I thought of the team, the hours of drills, the
+      way the sun hit the field at dusk. A flicker of guilt tugged, but I shrugged it off. “O well,” I sighed, scrolling through memes. Life was too short for obligations that didn’t spark joy.        As the TV blared, I replayed the day’s events—the teasing, the test, the outfit, the quitting. It was all so… me. Chaotic, half-baked, and somehow still funny. I grinned. “Im a bum,” I whispered to the empty room, “oooo yeah.” And for once, I didn’t mind.
+- userid: 2842752
+  source: blogauthorship
+  task_name: long story
+  task_specific:
+    characters: "I am a high school junior who rejects labels, prizing authenticity and human connection over social hierarchies.  \n    - Sarah: A \"prep\" captain of the cheerleading squad, secretly writing poetry in her notebook during lunch.  \n    - Jake: A \"punk\" with dyed black hair and a passion for repairing vintage motorcycles.  \n    - Leo: A \"dork\" obsessed with astrophysics, often correcting others’ misconceptions during lunchtable debates.  \n    - Maya: An \"emo\" artist who sketches hauntingly beautiful portraits in the corner of the library."
+    background: Set in a high school where social cliques dominate the cafeteria and hallways, the narrator exists as an outsider who deliberately avoids aligning with any group. They observe the rigid boundaries between "preps," "punks," "dorks," and "emos," yet find connection points across these divides through shared emotions and curiosity. The story unfolds over a single transformative week where the narrator’s fluid social navigation forces them to confront their identity and the meaning of belonging.
+    plots: 'The first bell of the week rings, and I stand in the cafeteria doorway, surveying the sea of cliques. Sarah’s laughter carries across the room where the preps cluster near the windows, their trays of perfectly portioned salads contrasting with Jake’s greasy burger at the punk table by the doors. I grab a banana and walk straight between them, nodding at both groups. “Hey, stranger,” Jake grins, gesturing to the empty spot beside him. “Save me a seat over there too?” I ask, already waving at Leo, who’s mid-lecture about black holes to two skeptical classmates.        By third period, I’m sitting cross-legged on the library floor with Maya, tracing the outline of her latest sketch. “You ever feel like everyone’s just performing?” she asks, her charcoal smudged fingers hovering over the paper. I nod, recalling how Sarah once confessed her fear of becoming “too polished to be real.” That night, I texted her: *“Ever read Sylvia Plath?”* Now Maya’s question loops in my head as I weave
+      through the school’s social fabric.        The climax comes during lunch on Friday. Jake challenges me: “Why you never pick a side? You gotta be someone.” His words sting. I open my mouth to retort, but Leo’s voice cuts in, defensive: “He’s the only one who actually *listens*.” Sarah arrives then, her usual smile faltering. “I saw your poem on the fridge,” I say quietly. Her eyes widen. “You read that?”        Later, under the flickering fluorescent lights, I realize the truth: I don’t need a label because my identity is built from every conversation, every shared vulnerability. When Maya hands me her sketch—a figure standing at the center of intersecting paths, unclaimed by any—I scrawl at the bottom: *“I’m ME.”* The next day, I leave the drawing on Sarah’s locker, next to a copy of *The Bell Jar*.'
+- userid: 4111895
+  source: blogauthorship
+  task_name: long story
+  task_specific:
+    characters: I, my crew chef, the patient, the ALS techs, dispatch
+    background: I was about to indulge in vanilla ice cream with real strawberries and blueberries with my crew chef when the tones at the base went off at 10:30pm for a priority 1 call to a nursing home. We were told of several injuries and planned ahead, bringing a backboard, collars, and other items to the location. The patient, in their mid-90's with a prior hip fracture, was on the floor but aware and alert enough to answer questions. After taking vitals and getting a sign off from the ALS crew, we began the backboarding process and transported the patient to the hospital. Once in the hospital, the patient began to hallucinate.
+    plots: As I reflect on the call, I think about the patient's situation and how it relates to a conversation we had earlier in the shift about whether it's better to die with all of your faculties or age to the point of being dependent on others. Our patient had obviously chosen the latter, or at least this path was chosen for them. It's a strange thing to consider, but as I held their hand to relax them as they hallucinated, I couldn't help but think about the complexities of aging and dependence. The patient's hallucinations were vivid and imaginative, ranging from opening bottles to licking ice cream cones, and it was almost as if they were experiencing a different reality. It was a poignant moment, and it made me think about my own preferences for aging. If I get to enjoy ice cream the way the patient was, even in a state of hallucination, then I'm all for aging. It's a strange twist, but it seems that the patient's experience had brought our earlier conversation full circle, and
+      I found myself appreciating the simple joys in life, like ice cream, in a new way.
+- userid: 3102416
+  source: blogauthorship
+  task_name: long story
+  task_specific:
+    characters: I am a ministry worker who left a secure job to seek a more authentic calling, navigating uncertainty through interviews and self-doubt. Jimi is my supportive friend who humorously reminded me of my initial disbelief in landing the job. Jeff Kinney is a mentor who advised me to seek a place where I could "just be myself." The church leaders at Grove City Vineyard offered the position after sensing my genuine fit for the role.
+    background: After leaving a stable ministry position seven months prior, the author found themselves in a transitional phase, attending numerous interviews at other churches without success. During an unexpected interview at Grove City Vineyard, they experienced a rare sense of authenticity and alignment with the role, leading to an offer for the position of Director of Student Ministries and Assimilation. The decision, though initially doubted, felt like a pivotal moment of belonging.
+    plots: 'The phone buzzed at 9:07 PM. I stared at the unknown number, heart thudding. "We’d like to offer you the position," the pastor’s voice crackled through the line. My breath hitched. "But… really? I mean, I’ll take two days to pray, but… yes." I hung up, replaying the words like a mantra. *Right. It’s right.*        Seven months earlier, I’d packed my Bible and resignation letter, fleeing a ministry that felt like a cage. "You’re running from structure, not problems," my former mentor had warned. But I needed space to breathe, to stop pretending my laughter was louder or my prayers more polished than they were.        The interviews that followed were a parade of masks. At First Baptist, I’d quoted scripture like a thesaurus, hiding my habit of quoting *Adventure Time* during youth group. At Grace Community Church, I’d stiffened my posture, pretending I didn’t doodle theological memes in margins of sermons. Each time, the job boards lit up with "declined" — a relief, really.        Then
+      came Grove City. The lobby smelled like peppermint tea and old hymnals. During the interview, I forgot to edit myself. When asked about conflict resolution, I admitted I’d once accidentally called a teenager "satanic" during a typo-riddled text. The room erupted in laughter, not judgment. "We could use someone who laughs at themselves," the pastor said.        Later, I texted Jimi: "They offered me the job." His reply pinged instantly: "You said you’d *never* get it. Remember? You were like, ‘I’m just here for the snacks.’" I grinned, guiltily proud.        That night, I replayed Jeff Kinney’s words: "When you stop performing, you’ll know you’re home." Here, I didn’t need to perform. I could let my sermons be messy, my prayers be quiet, my heart be visible.        Packing my car for the move, I scribbled a note to my old ministry: *Thanks for the cage. But the sky’s bigger out here.* Come August, I’d step into a role that didn’t demand a costume — just me, finally, in all my unacronymed
+      glory.'
