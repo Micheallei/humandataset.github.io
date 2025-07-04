@@ -52,27 +52,27 @@ h1.page-title, h1 {
     </tr>
     <tr>
       <td style="padding:.7em 0; color:#21252b; font-weight:700;">Reddit</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
+      <td>102,000</td>
+      <td>610,868</td>
+      <td>1,410,765</td>
     </tr>
     <tr>
       <td style="padding:.7em 0; color:#21252b; font-weight:700;">Twitter</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
+      <td>71,983</td>
+      <td>392,816</td>
+      <td>838,023</td>
     </tr>
     <tr>
       <td style="padding:.7em 0; color:#21252b; font-weight:700;">Amazon</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
+      <td>413,136</td>
+      <td>0</td>
+      <td>1,875,552</td>
     </tr>
     <tr>
       <td style="padding:.7em 0; color:#21252b; font-weight:700;">Blogauthorship</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
+      <td>41,535</td>
+      <td>977,152</td>
+      <td>1,302,550</td>
     </tr>
   </table>
 </div>
